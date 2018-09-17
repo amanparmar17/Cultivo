@@ -1,2 +1,2 @@
-# kultivo
-machine learning and ai based crop consultant
+# Cultivo
+machine learning and ai based crop consultant written in django
