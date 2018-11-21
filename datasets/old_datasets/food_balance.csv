@@ -1,0 +1,925 @@
+Element,Item,Year,Unit,Value
+Production,Wheat and products,2007,1000 tonnes,75807
+Production,Wheat and products,2008,1000 tonnes,78570
+Production,Wheat and products,2009,1000 tonnes,80679
+Production,Wheat and products,2010,1000 tonnes,80804
+Production,Wheat and products,2011,1000 tonnes,86874
+Production,Wheat and products,2012,1000 tonnes,94880
+Production,Wheat and products,2013,1000 tonnes,93510
+Import Quantity,Wheat and products,2007,1000 tonnes,2690
+Import Quantity,Wheat and products,2008,1000 tonnes,14
+Import Quantity,Wheat and products,2009,1000 tonnes,180
+Import Quantity,Wheat and products,2010,1000 tonnes,199
+Import Quantity,Wheat and products,2011,1000 tonnes,17
+Import Quantity,Wheat and products,2012,1000 tonnes,15
+Import Quantity,Wheat and products,2013,1000 tonnes,27
+Stock Variation,Wheat and products,2007,1000 tonnes,-996
+Stock Variation,Wheat and products,2008,1000 tonnes,2000
+Stock Variation,Wheat and products,2009,1000 tonnes,-1500
+Stock Variation,Wheat and products,2010,1000 tonnes,1550
+Stock Variation,Wheat and products,2011,1000 tonnes,-4130
+Stock Variation,Wheat and products,2012,1000 tonnes,-8713
+Stock Variation,Wheat and products,2013,1000 tonnes,3
+Export Quantity,Wheat and products,2007,1000 tonnes,128
+Export Quantity,Wheat and products,2008,1000 tonnes,163
+Export Quantity,Wheat and products,2009,1000 tonnes,146
+Export Quantity,Wheat and products,2010,1000 tonnes,158
+Export Quantity,Wheat and products,2011,1000 tonnes,784
+Export Quantity,Wheat and products,2012,1000 tonnes,5040
+Export Quantity,Wheat and products,2013,1000 tonnes,7168
+Domestic supply quantity,Wheat and products,2007,1000 tonnes,77373
+Domestic supply quantity,Wheat and products,2008,1000 tonnes,80421
+Domestic supply quantity,Wheat and products,2009,1000 tonnes,79214
+Domestic supply quantity,Wheat and products,2010,1000 tonnes,82394
+Domestic supply quantity,Wheat and products,2011,1000 tonnes,81976
+Domestic supply quantity,Wheat and products,2012,1000 tonnes,81141
+Domestic supply quantity,Wheat and products,2013,1000 tonnes,86372
+Feed,Wheat and products,2007,1000 tonnes,1334
+Feed,Wheat and products,2008,1000 tonnes,1450
+Feed,Wheat and products,2009,1000 tonnes,1617
+Feed,Wheat and products,2010,1000 tonnes,1816
+Feed,Wheat and products,2011,1000 tonnes,1911
+Feed,Wheat and products,2012,1000 tonnes,1898
+Feed,Wheat and products,2013,1000 tonnes,1870
+Seed,Wheat and products,2007,1000 tonnes,2804
+Seed,Wheat and products,2008,1000 tonnes,2775
+Seed,Wheat and products,2009,1000 tonnes,2846
+Seed,Wheat and products,2010,1000 tonnes,2907
+Seed,Wheat and products,2011,1000 tonnes,2986
+Seed,Wheat and products,2012,1000 tonnes,2965
+Seed,Wheat and products,2013,1000 tonnes,3060
+Losses,Wheat and products,2007,1000 tonnes,3924
+Losses,Wheat and products,2008,1000 tonnes,4834
+Losses,Wheat and products,2009,1000 tonnes,4851
+Losses,Wheat and products,2010,1000 tonnes,4952
+Losses,Wheat and products,2011,1000 tonnes,5212
+Losses,Wheat and products,2012,1000 tonnes,5693
+Losses,Wheat and products,2013,1000 tonnes,5611
+Processing,Wheat and products,2007,1000 tonnes,0
+Processing,Wheat and products,2008,1000 tonnes,0
+Processing,Wheat and products,2009,1000 tonnes,0
+Processing,Wheat and products,2010,1000 tonnes,0
+Processing,Wheat and products,2011,1000 tonnes,0
+Processing,Wheat and products,2012,1000 tonnes,0
+Processing,Wheat and products,2013,1000 tonnes,0
+Food,Wheat and products,2007,1000 tonnes,69311
+Food,Wheat and products,2008,1000 tonnes,71361
+Food,Wheat and products,2009,1000 tonnes,69900
+Food,Wheat and products,2010,1000 tonnes,72719
+Food,Wheat and products,2011,1000 tonnes,71867
+Food,Wheat and products,2012,1000 tonnes,70589
+Food,Wheat and products,2013,1000 tonnes,75833
+Food supply quantity (kg/capita/yr),Wheat and products,2007,kg,59.8
+Food supply quantity (kg/capita/yr),Wheat and products,2008,kg,60.75
+Food supply quantity (kg/capita/yr),Wheat and products,2009,kg,58.73
+Food supply quantity (kg/capita/yr),Wheat and products,2010,kg,60.32
+Food supply quantity (kg/capita/yr),Wheat and products,2011,kg,58.85
+Food supply quantity (kg/capita/yr),Wheat and products,2012,kg,57.08
+Food supply quantity (kg/capita/yr),Wheat and products,2013,kg,60.56
+Food supply (kcal/capita/day),Wheat and products,2007,kcal/capita/day,510
+Food supply (kcal/capita/day),Wheat and products,2008,kcal/capita/day,518
+Food supply (kcal/capita/day),Wheat and products,2009,kcal/capita/day,501
+Food supply (kcal/capita/day),Wheat and products,2010,kcal/capita/day,515
+Food supply (kcal/capita/day),Wheat and products,2011,kcal/capita/day,502
+Food supply (kcal/capita/day),Wheat and products,2012,kcal/capita/day,487
+Food supply (kcal/capita/day),Wheat and products,2013,kcal/capita/day,517
+Protein supply quantity (g/capita/day),Wheat and products,2007,g/capita/day,14.9
+Protein supply quantity (g/capita/day),Wheat and products,2008,g/capita/day,15.14
+Protein supply quantity (g/capita/day),Wheat and products,2009,g/capita/day,14.63
+Protein supply quantity (g/capita/day),Wheat and products,2010,g/capita/day,15.03
+Protein supply quantity (g/capita/day),Wheat and products,2011,g/capita/day,14.66
+Protein supply quantity (g/capita/day),Wheat and products,2012,g/capita/day,14.23
+Protein supply quantity (g/capita/day),Wheat and products,2013,g/capita/day,15.09
+Fat supply quantity (g/capita/day),Wheat and products,2007,g/capita/day,2.36
+Fat supply quantity (g/capita/day),Wheat and products,2008,g/capita/day,2.41
+Fat supply quantity (g/capita/day),Wheat and products,2009,g/capita/day,2.33
+Fat supply quantity (g/capita/day),Wheat and products,2010,g/capita/day,2.39
+Fat supply quantity (g/capita/day),Wheat and products,2011,g/capita/day,2.33
+Fat supply quantity (g/capita/day),Wheat and products,2012,g/capita/day,2.26
+Fat supply quantity (g/capita/day),Wheat and products,2013,g/capita/day,2.39
+Production,Rice (Milled Equivalent),2007,1000 tonnes,96428
+Production,Rice (Milled Equivalent),2008,1000 tonnes,98740
+Production,Rice (Milled Equivalent),2009,1000 tonnes,90494
+Production,Rice (Milled Equivalent),2010,1000 tonnes,96023
+Production,Rice (Milled Equivalent),2011,1000 tonnes,105319
+Production,Rice (Milled Equivalent),2012,1000 tonnes,105253
+Production,Rice (Milled Equivalent),2013,1000 tonnes,106186
+Import Quantity,Rice (Milled Equivalent),2007,1000 tonnes,22
+Import Quantity,Rice (Milled Equivalent),2008,1000 tonnes,12
+Import Quantity,Rice (Milled Equivalent),2009,1000 tonnes,41
+Import Quantity,Rice (Milled Equivalent),2010,1000 tonnes,11
+Import Quantity,Rice (Milled Equivalent),2011,1000 tonnes,12
+Import Quantity,Rice (Milled Equivalent),2012,1000 tonnes,4
+Import Quantity,Rice (Milled Equivalent),2013,1000 tonnes,5
+Stock Variation,Rice (Milled Equivalent),2007,1000 tonnes,0
+Stock Variation,Rice (Milled Equivalent),2008,1000 tonnes,-4000
+Stock Variation,Rice (Milled Equivalent),2009,1000 tonnes,4000
+Stock Variation,Rice (Milled Equivalent),2010,1000 tonnes,500
+Stock Variation,Rice (Milled Equivalent),2011,1000 tonnes,-5000
+Stock Variation,Rice (Milled Equivalent),2012,1000 tonnes,0
+Stock Variation,Rice (Milled Equivalent),2013,1000 tonnes,0
+Export Quantity,Rice (Milled Equivalent),2007,1000 tonnes,6490
+Export Quantity,Rice (Milled Equivalent),2008,1000 tonnes,2514
+Export Quantity,Rice (Milled Equivalent),2009,1000 tonnes,2181
+Export Quantity,Rice (Milled Equivalent),2010,1000 tonnes,2264
+Export Quantity,Rice (Milled Equivalent),2011,1000 tonnes,5045
+Export Quantity,Rice (Milled Equivalent),2012,1000 tonnes,10501
+Export Quantity,Rice (Milled Equivalent),2013,1000 tonnes,11337
+Domestic supply quantity,Rice (Milled Equivalent),2007,1000 tonnes,89960
+Domestic supply quantity,Rice (Milled Equivalent),2008,1000 tonnes,92237
+Domestic supply quantity,Rice (Milled Equivalent),2009,1000 tonnes,92354
+Domestic supply quantity,Rice (Milled Equivalent),2010,1000 tonnes,94270
+Domestic supply quantity,Rice (Milled Equivalent),2011,1000 tonnes,95287
+Domestic supply quantity,Rice (Milled Equivalent),2012,1000 tonnes,94756
+Domestic supply quantity,Rice (Milled Equivalent),2013,1000 tonnes,94854
+Feed,Rice (Milled Equivalent),2007,1000 tonnes,1929
+Feed,Rice (Milled Equivalent),2008,1000 tonnes,1975
+Feed,Rice (Milled Equivalent),2009,1000 tonnes,1810
+Feed,Rice (Milled Equivalent),2010,1000 tonnes,1920
+Feed,Rice (Milled Equivalent),2011,1000 tonnes,2106
+Feed,Rice (Milled Equivalent),2012,1000 tonnes,2105
+Feed,Rice (Milled Equivalent),2013,1000 tonnes,2124
+Seed,Rice (Milled Equivalent),2007,1000 tonnes,2278
+Seed,Rice (Milled Equivalent),2008,1000 tonnes,2097
+Seed,Rice (Milled Equivalent),2009,1000 tonnes,2144
+Seed,Rice (Milled Equivalent),2010,1000 tonnes,2200
+Seed,Rice (Milled Equivalent),2011,1000 tonnes,2122
+Seed,Rice (Milled Equivalent),2012,1000 tonnes,2198
+Seed,Rice (Milled Equivalent),2013,1000 tonnes,2171
+Losses,Rice (Milled Equivalent),2007,1000 tonnes,2893
+Losses,Rice (Milled Equivalent),2008,1000 tonnes,2962
+Losses,Rice (Milled Equivalent),2009,1000 tonnes,2715
+Losses,Rice (Milled Equivalent),2010,1000 tonnes,2881
+Losses,Rice (Milled Equivalent),2011,1000 tonnes,4213
+Losses,Rice (Milled Equivalent),2012,1000 tonnes,3158
+Losses,Rice (Milled Equivalent),2013,1000 tonnes,3186
+Processing,Rice (Milled Equivalent),2007,1000 tonnes,333
+Processing,Rice (Milled Equivalent),2008,1000 tonnes,346
+Processing,Rice (Milled Equivalent),2009,1000 tonnes,360
+Processing,Rice (Milled Equivalent),2010,1000 tonnes,341
+Processing,Rice (Milled Equivalent),2011,1000 tonnes,369
+Processing,Rice (Milled Equivalent),2012,1000 tonnes,362
+Processing,Rice (Milled Equivalent),2013,1000 tonnes,368
+Food,Rice (Milled Equivalent),2007,1000 tonnes,82527
+Food,Rice (Milled Equivalent),2008,1000 tonnes,84858
+Food,Rice (Milled Equivalent),2009,1000 tonnes,85325
+Food,Rice (Milled Equivalent),2010,1000 tonnes,86928
+Food,Rice (Milled Equivalent),2011,1000 tonnes,86478
+Food,Rice (Milled Equivalent),2012,1000 tonnes,86933
+Food,Rice (Milled Equivalent),2013,1000 tonnes,87006
+Food supply quantity (kg/capita/yr),Rice (Milled Equivalent),2007,kg,71.2
+Food supply quantity (kg/capita/yr),Rice (Milled Equivalent),2008,kg,72.24
+Food supply quantity (kg/capita/yr),Rice (Milled Equivalent),2009,kg,71.69
+Food supply quantity (kg/capita/yr),Rice (Milled Equivalent),2010,kg,72.1
+Food supply quantity (kg/capita/yr),Rice (Milled Equivalent),2011,kg,70.82
+Food supply quantity (kg/capita/yr),Rice (Milled Equivalent),2012,kg,70.3
+Food supply quantity (kg/capita/yr),Rice (Milled Equivalent),2013,kg,69.49
+Food supply (kcal/capita/day),Rice (Milled Equivalent),2007,kcal/capita/day,706
+Food supply (kcal/capita/day),Rice (Milled Equivalent),2008,kcal/capita/day,717
+Food supply (kcal/capita/day),Rice (Milled Equivalent),2009,kcal/capita/day,711
+Food supply (kcal/capita/day),Rice (Milled Equivalent),2010,kcal/capita/day,715
+Food supply (kcal/capita/day),Rice (Milled Equivalent),2011,kcal/capita/day,703
+Food supply (kcal/capita/day),Rice (Milled Equivalent),2012,kcal/capita/day,697
+Food supply (kcal/capita/day),Rice (Milled Equivalent),2013,kcal/capita/day,689
+Protein supply quantity (g/capita/day),Rice (Milled Equivalent),2007,g/capita/day,13.27
+Protein supply quantity (g/capita/day),Rice (Milled Equivalent),2008,g/capita/day,13.47
+Protein supply quantity (g/capita/day),Rice (Milled Equivalent),2009,g/capita/day,13.36
+Protein supply quantity (g/capita/day),Rice (Milled Equivalent),2010,g/capita/day,13.44
+Protein supply quantity (g/capita/day),Rice (Milled Equivalent),2011,g/capita/day,13.2
+Protein supply quantity (g/capita/day),Rice (Milled Equivalent),2012,g/capita/day,13.1
+Protein supply quantity (g/capita/day),Rice (Milled Equivalent),2013,g/capita/day,12.96
+Fat supply quantity (g/capita/day),Rice (Milled Equivalent),2007,g/capita/day,1.57
+Fat supply quantity (g/capita/day),Rice (Milled Equivalent),2008,g/capita/day,1.59
+Fat supply quantity (g/capita/day),Rice (Milled Equivalent),2009,g/capita/day,1.58
+Fat supply quantity (g/capita/day),Rice (Milled Equivalent),2010,g/capita/day,1.58
+Fat supply quantity (g/capita/day),Rice (Milled Equivalent),2011,g/capita/day,1.56
+Fat supply quantity (g/capita/day),Rice (Milled Equivalent),2012,g/capita/day,1.54
+Fat supply quantity (g/capita/day),Rice (Milled Equivalent),2013,g/capita/day,1.53
+Production,Barley and products,2007,1000 tonnes,1330
+Production,Barley and products,2008,1000 tonnes,1200
+Production,Barley and products,2009,1000 tonnes,1689
+Production,Barley and products,2010,1000 tonnes,1355
+Production,Barley and products,2011,1000 tonnes,1663
+Production,Barley and products,2012,1000 tonnes,1620
+Production,Barley and products,2013,1000 tonnes,1750
+Import Quantity,Barley and products,2007,1000 tonnes,9
+Import Quantity,Barley and products,2008,1000 tonnes,6
+Import Quantity,Barley and products,2009,1000 tonnes,4
+Import Quantity,Barley and products,2010,1000 tonnes,5
+Import Quantity,Barley and products,2011,1000 tonnes,6
+Import Quantity,Barley and products,2012,1000 tonnes,41
+Import Quantity,Barley and products,2013,1000 tonnes,12
+Stock Variation,Barley and products,2007,1000 tonnes,0
+Stock Variation,Barley and products,2008,1000 tonnes,0
+Stock Variation,Barley and products,2009,1000 tonnes,0
+Stock Variation,Barley and products,2010,1000 tonnes,0
+Stock Variation,Barley and products,2011,1000 tonnes,-13
+Stock Variation,Barley and products,2012,1000 tonnes,-8
+Stock Variation,Barley and products,2013,1000 tonnes,20
+Export Quantity,Barley and products,2007,1000 tonnes,350
+Export Quantity,Barley and products,2008,1000 tonnes,169
+Export Quantity,Barley and products,2009,1000 tonnes,57
+Export Quantity,Barley and products,2010,1000 tonnes,39
+Export Quantity,Barley and products,2011,1000 tonnes,48
+Export Quantity,Barley and products,2012,1000 tonnes,120
+Export Quantity,Barley and products,2013,1000 tonnes,557
+Domestic supply quantity,Barley and products,2007,1000 tonnes,989
+Domestic supply quantity,Barley and products,2008,1000 tonnes,1037
+Domestic supply quantity,Barley and products,2009,1000 tonnes,1636
+Domestic supply quantity,Barley and products,2010,1000 tonnes,1321
+Domestic supply quantity,Barley and products,2011,1000 tonnes,1608
+Domestic supply quantity,Barley and products,2012,1000 tonnes,1533
+Domestic supply quantity,Barley and products,2013,1000 tonnes,1226
+Feed,Barley and products,2007,1000 tonnes,120
+Feed,Barley and products,2008,1000 tonnes,108
+Feed,Barley and products,2009,1000 tonnes,152
+Feed,Barley and products,2010,1000 tonnes,122
+Feed,Barley and products,2011,1000 tonnes,150
+Feed,Barley and products,2012,1000 tonnes,149
+Feed,Barley and products,2013,1000 tonnes,158
+Seed,Barley and products,2007,1000 tonnes,72
+Seed,Barley and products,2008,1000 tonnes,85
+Seed,Barley and products,2009,1000 tonnes,75
+Seed,Barley and products,2010,1000 tonnes,85
+Seed,Barley and products,2011,1000 tonnes,92
+Seed,Barley and products,2012,1000 tonnes,94
+Seed,Barley and products,2013,1000 tonnes,97
+Losses,Barley and products,2007,1000 tonnes,27
+Losses,Barley and products,2008,1000 tonnes,24
+Losses,Barley and products,2009,1000 tonnes,34
+Losses,Barley and products,2010,1000 tonnes,27
+Losses,Barley and products,2011,1000 tonnes,33
+Losses,Barley and products,2012,1000 tonnes,33
+Losses,Barley and products,2013,1000 tonnes,35
+Processing,Barley and products,2007,1000 tonnes,79
+Processing,Barley and products,2008,1000 tonnes,80
+Processing,Barley and products,2009,1000 tonnes,99
+Processing,Barley and products,2010,1000 tonnes,103
+Processing,Barley and products,2011,1000 tonnes,116
+Processing,Barley and products,2012,1000 tonnes,105
+Processing,Barley and products,2013,1000 tonnes,102
+Food,Barley and products,2007,1000 tonnes,691
+Food,Barley and products,2008,1000 tonnes,740
+Food,Barley and products,2009,1000 tonnes,1276
+Food,Barley and products,2010,1000 tonnes,984
+Food,Barley and products,2011,1000 tonnes,1217
+Food,Barley and products,2012,1000 tonnes,1152
+Food,Barley and products,2013,1000 tonnes,835
+Food supply quantity (kg/capita/yr),Barley and products,2007,kg,0.6
+Food supply quantity (kg/capita/yr),Barley and products,2008,kg,0.63
+Food supply quantity (kg/capita/yr),Barley and products,2009,kg,1.07
+Food supply quantity (kg/capita/yr),Barley and products,2010,kg,0.82
+Food supply quantity (kg/capita/yr),Barley and products,2011,kg,1
+Food supply quantity (kg/capita/yr),Barley and products,2012,kg,0.93
+Food supply quantity (kg/capita/yr),Barley and products,2013,kg,0.67
+Food supply (kcal/capita/day),Barley and products,2007,kcal/capita/day,4
+Food supply (kcal/capita/day),Barley and products,2008,kcal/capita/day,4
+Food supply (kcal/capita/day),Barley and products,2009,kcal/capita/day,7
+Food supply (kcal/capita/day),Barley and products,2010,kcal/capita/day,5
+Food supply (kcal/capita/day),Barley and products,2011,kcal/capita/day,7
+Food supply (kcal/capita/day),Barley and products,2012,kcal/capita/day,6
+Food supply (kcal/capita/day),Barley and products,2013,kcal/capita/day,4
+Protein supply quantity (g/capita/day),Barley and products,2007,g/capita/day,0.1
+Protein supply quantity (g/capita/day),Barley and products,2008,g/capita/day,0.11
+Protein supply quantity (g/capita/day),Barley and products,2009,g/capita/day,0.18
+Protein supply quantity (g/capita/day),Barley and products,2010,g/capita/day,0.14
+Protein supply quantity (g/capita/day),Barley and products,2011,g/capita/day,0.17
+Protein supply quantity (g/capita/day),Barley and products,2012,g/capita/day,0.16
+Protein supply quantity (g/capita/day),Barley and products,2013,g/capita/day,0.11
+Fat supply quantity (g/capita/day),Barley and products,2007,g/capita/day,0.02
+Fat supply quantity (g/capita/day),Barley and products,2008,g/capita/day,0.02
+Fat supply quantity (g/capita/day),Barley and products,2009,g/capita/day,0.03
+Fat supply quantity (g/capita/day),Barley and products,2010,g/capita/day,0.02
+Fat supply quantity (g/capita/day),Barley and products,2011,g/capita/day,0.03
+Fat supply quantity (g/capita/day),Barley and products,2012,g/capita/day,0.02
+Fat supply quantity (g/capita/day),Barley and products,2013,g/capita/day,0.02
+Production,Maize and products,2007,1000 tonnes,18955
+Production,Maize and products,2008,1000 tonnes,19731
+Production,Maize and products,2009,1000 tonnes,16720
+Production,Maize and products,2010,1000 tonnes,21726
+Production,Maize and products,2011,1000 tonnes,21760
+Production,Maize and products,2012,1000 tonnes,22260
+Production,Maize and products,2013,1000 tonnes,23290
+Import Quantity,Maize and products,2007,1000 tonnes,7
+Import Quantity,Maize and products,2008,1000 tonnes,10
+Import Quantity,Maize and products,2009,1000 tonnes,24
+Import Quantity,Maize and products,2010,1000 tonnes,10
+Import Quantity,Maize and products,2011,1000 tonnes,17
+Import Quantity,Maize and products,2012,1000 tonnes,9
+Import Quantity,Maize and products,2013,1000 tonnes,17
+Stock Variation,Maize and products,2007,1000 tonnes,0
+Stock Variation,Maize and products,2008,1000 tonnes,0
+Stock Variation,Maize and products,2009,1000 tonnes,500
+Stock Variation,Maize and products,2010,1000 tonnes,-2000
+Stock Variation,Maize and products,2011,1000 tonnes,0
+Stock Variation,Maize and products,2012,1000 tonnes,0
+Stock Variation,Maize and products,2013,1000 tonnes,0
+Export Quantity,Maize and products,2007,1000 tonnes,2799
+Export Quantity,Maize and products,2008,1000 tonnes,3624
+Export Quantity,Maize and products,2009,1000 tonnes,2673
+Export Quantity,Maize and products,2010,1000 tonnes,2376
+Export Quantity,Maize and products,2011,1000 tonnes,4129
+Export Quantity,Maize and products,2012,1000 tonnes,4537
+Export Quantity,Maize and products,2013,1000 tonnes,5119
+Domestic supply quantity,Maize and products,2007,1000 tonnes,16163
+Domestic supply quantity,Maize and products,2008,1000 tonnes,16118
+Domestic supply quantity,Maize and products,2009,1000 tonnes,14571
+Domestic supply quantity,Maize and products,2010,1000 tonnes,17359
+Domestic supply quantity,Maize and products,2011,1000 tonnes,17648
+Domestic supply quantity,Maize and products,2012,1000 tonnes,17732
+Domestic supply quantity,Maize and products,2013,1000 tonnes,18188
+Feed,Maize and products,2007,1000 tonnes,5119
+Feed,Maize and products,2008,1000 tonnes,5329
+Feed,Maize and products,2009,1000 tonnes,4654
+Feed,Maize and products,2010,1000 tonnes,6520
+Feed,Maize and products,2011,1000 tonnes,6532
+Feed,Maize and products,2012,1000 tonnes,6679
+Feed,Maize and products,2013,1000 tonnes,6990
+Seed,Maize and products,2007,1000 tonnes,899
+Seed,Maize and products,2008,1000 tonnes,909
+Seed,Maize and products,2009,1000 tonnes,941
+Seed,Maize and products,2010,1000 tonnes,966
+Seed,Maize and products,2011,1000 tonnes,958
+Seed,Maize and products,2012,1000 tonnes,1045
+Seed,Maize and products,2013,1000 tonnes,946
+Losses,Maize and products,2007,1000 tonnes,1896
+Losses,Maize and products,2008,1000 tonnes,1974
+Losses,Maize and products,2009,1000 tonnes,1724
+Losses,Maize and products,2010,1000 tonnes,2173
+Losses,Maize and products,2011,1000 tonnes,2177
+Losses,Maize and products,2012,1000 tonnes,2226
+Losses,Maize and products,2013,1000 tonnes,2330
+Processing,Maize and products,2007,1000 tonnes,0
+Processing,Maize and products,2008,1000 tonnes,0
+Processing,Maize and products,2009,1000 tonnes,0
+Processing,Maize and products,2010,1000 tonnes,0
+Processing,Maize and products,2011,1000 tonnes,0
+Processing,Maize and products,2012,1000 tonnes,0
+Processing,Maize and products,2013,1000 tonnes,0
+Other uses,Maize and products,2007,1000 tonnes,48
+Other uses,Maize and products,2008,1000 tonnes,61
+Other uses,Maize and products,2009,1000 tonnes,58
+Other uses,Maize and products,2010,1000 tonnes,18
+Other uses,Maize and products,2011,1000 tonnes,38
+Other uses,Maize and products,2012,1000 tonnes,24
+Other uses,Maize and products,2013,1000 tonnes,45
+Food,Maize and products,2007,1000 tonnes,8200
+Food,Maize and products,2008,1000 tonnes,7845
+Food,Maize and products,2009,1000 tonnes,7194
+Food,Maize and products,2010,1000 tonnes,7682
+Food,Maize and products,2011,1000 tonnes,7943
+Food,Maize and products,2012,1000 tonnes,7759
+Food,Maize and products,2013,1000 tonnes,7876
+Food supply quantity (kg/capita/yr),Maize and products,2007,kg,7.07
+Food supply quantity (kg/capita/yr),Maize and products,2008,kg,6.68
+Food supply quantity (kg/capita/yr),Maize and products,2009,kg,6.04
+Food supply quantity (kg/capita/yr),Maize and products,2010,kg,6.37
+Food supply quantity (kg/capita/yr),Maize and products,2011,kg,6.5
+Food supply quantity (kg/capita/yr),Maize and products,2012,kg,6.27
+Food supply quantity (kg/capita/yr),Maize and products,2013,kg,6.29
+Food supply (kcal/capita/day),Maize and products,2007,kcal/capita/day,58
+Food supply (kcal/capita/day),Maize and products,2008,kcal/capita/day,55
+Food supply (kcal/capita/day),Maize and products,2009,kcal/capita/day,50
+Food supply (kcal/capita/day),Maize and products,2010,kcal/capita/day,52
+Food supply (kcal/capita/day),Maize and products,2011,kcal/capita/day,53
+Food supply (kcal/capita/day),Maize and products,2012,kcal/capita/day,51
+Food supply (kcal/capita/day),Maize and products,2013,kcal/capita/day,52
+Protein supply quantity (g/capita/day),Maize and products,2007,g/capita/day,1.45
+Protein supply quantity (g/capita/day),Maize and products,2008,g/capita/day,1.37
+Protein supply quantity (g/capita/day),Maize and products,2009,g/capita/day,1.24
+Protein supply quantity (g/capita/day),Maize and products,2010,g/capita/day,1.31
+Protein supply quantity (g/capita/day),Maize and products,2011,g/capita/day,1.33
+Protein supply quantity (g/capita/day),Maize and products,2012,g/capita/day,1.29
+Protein supply quantity (g/capita/day),Maize and products,2013,g/capita/day,1.29
+Fat supply quantity (g/capita/day),Maize and products,2007,g/capita/day,0.72
+Fat supply quantity (g/capita/day),Maize and products,2008,g/capita/day,0.68
+Fat supply quantity (g/capita/day),Maize and products,2009,g/capita/day,0.61
+Fat supply quantity (g/capita/day),Maize and products,2010,g/capita/day,0.64
+Fat supply quantity (g/capita/day),Maize and products,2011,g/capita/day,0.66
+Fat supply quantity (g/capita/day),Maize and products,2012,g/capita/day,0.64
+Fat supply quantity (g/capita/day),Maize and products,2013,g/capita/day,0.64
+Production,Millet and products,2007,1000 tonnes,12673
+Production,Millet and products,2008,1000 tonnes,11372
+Production,Millet and products,2009,1000 tonnes,8777
+Production,Millet and products,2010,1000 tonnes,13293
+Production,Millet and products,2011,1000 tonnes,12660
+Production,Millet and products,2012,1000 tonnes,10750
+Production,Millet and products,2013,1000 tonnes,10910
+Import Quantity,Millet and products,2007,1000 tonnes,0
+Import Quantity,Millet and products,2008,1000 tonnes,0
+Import Quantity,Millet and products,2009,1000 tonnes,0
+Import Quantity,Millet and products,2010,1000 tonnes,1
+Import Quantity,Millet and products,2011,1000 tonnes,0
+Import Quantity,Millet and products,2012,1000 tonnes,0
+Import Quantity,Millet and products,2013,1000 tonnes,0
+Stock Variation,Millet and products,2007,1000 tonnes,-1200
+Stock Variation,Millet and products,2008,1000 tonnes,-300
+Stock Variation,Millet and products,2009,1000 tonnes,1500
+Stock Variation,Millet and products,2010,1000 tonnes,-1500
+Stock Variation,Millet and products,2011,1000 tonnes,-500
+Stock Variation,Millet and products,2012,1000 tonnes,0
+Stock Variation,Millet and products,2013,1000 tonnes,0
+Export Quantity,Millet and products,2007,1000 tonnes,105
+Export Quantity,Millet and products,2008,1000 tonnes,186
+Export Quantity,Millet and products,2009,1000 tonnes,137
+Export Quantity,Millet and products,2010,1000 tonnes,157
+Export Quantity,Millet and products,2011,1000 tonnes,133
+Export Quantity,Millet and products,2012,1000 tonnes,109
+Export Quantity,Millet and products,2013,1000 tonnes,83
+Domestic supply quantity,Millet and products,2007,1000 tonnes,11368
+Domestic supply quantity,Millet and products,2008,1000 tonnes,10885
+Domestic supply quantity,Millet and products,2009,1000 tonnes,10139
+Domestic supply quantity,Millet and products,2010,1000 tonnes,11637
+Domestic supply quantity,Millet and products,2011,1000 tonnes,12027
+Domestic supply quantity,Millet and products,2012,1000 tonnes,10641
+Domestic supply quantity,Millet and products,2013,1000 tonnes,10827
+Feed,Millet and products,2007,1000 tonnes,203
+Feed,Millet and products,2008,1000 tonnes,182
+Feed,Millet and products,2009,1000 tonnes,164
+Feed,Millet and products,2010,1000 tonnes,266
+Feed,Millet and products,2011,1000 tonnes,253
+Feed,Millet and products,2012,1000 tonnes,215
+Feed,Millet and products,2013,1000 tonnes,218
+Seed,Millet and products,2007,1000 tonnes,331
+Seed,Millet and products,2008,1000 tonnes,330
+Seed,Millet and products,2009,1000 tonnes,354
+Seed,Millet and products,2010,1000 tonnes,320
+Seed,Millet and products,2011,1000 tonnes,273
+Seed,Millet and products,2012,1000 tonnes,276
+Seed,Millet and products,2013,1000 tonnes,264
+Losses,Millet and products,2007,1000 tonnes,610
+Losses,Millet and products,2008,1000 tonnes,554
+Losses,Millet and products,2009,1000 tonnes,503
+Losses,Millet and products,2010,1000 tonnes,637
+Losses,Millet and products,2011,1000 tonnes,616
+Losses,Millet and products,2012,1000 tonnes,527
+Losses,Millet and products,2013,1000 tonnes,535
+Food,Millet and products,2007,1000 tonnes,10224
+Food,Millet and products,2008,1000 tonnes,9819
+Food,Millet and products,2009,1000 tonnes,9118
+Food,Millet and products,2010,1000 tonnes,10414
+Food,Millet and products,2011,1000 tonnes,10884
+Food,Millet and products,2012,1000 tonnes,9622
+Food,Millet and products,2013,1000 tonnes,9810
+Food supply quantity (kg/capita/yr),Millet and products,2007,kg,8.82
+Food supply quantity (kg/capita/yr),Millet and products,2008,kg,8.36
+Food supply quantity (kg/capita/yr),Millet and products,2009,kg,7.66
+Food supply quantity (kg/capita/yr),Millet and products,2010,kg,8.64
+Food supply quantity (kg/capita/yr),Millet and products,2011,kg,8.91
+Food supply quantity (kg/capita/yr),Millet and products,2012,kg,7.78
+Food supply quantity (kg/capita/yr),Millet and products,2013,kg,7.83
+Food supply (kcal/capita/day),Millet and products,2007,kcal/capita/day,75
+Food supply (kcal/capita/day),Millet and products,2008,kcal/capita/day,71
+Food supply (kcal/capita/day),Millet and products,2009,kcal/capita/day,65
+Food supply (kcal/capita/day),Millet and products,2010,kcal/capita/day,74
+Food supply (kcal/capita/day),Millet and products,2011,kcal/capita/day,76
+Food supply (kcal/capita/day),Millet and products,2012,kcal/capita/day,66
+Food supply (kcal/capita/day),Millet and products,2013,kcal/capita/day,67
+Protein supply quantity (g/capita/day),Millet and products,2007,g/capita/day,2.18
+Protein supply quantity (g/capita/day),Millet and products,2008,g/capita/day,2.07
+Protein supply quantity (g/capita/day),Millet and products,2009,g/capita/day,1.89
+Protein supply quantity (g/capita/day),Millet and products,2010,g/capita/day,2.13
+Protein supply quantity (g/capita/day),Millet and products,2011,g/capita/day,2.2
+Protein supply quantity (g/capita/day),Millet and products,2012,g/capita/day,1.92
+Protein supply quantity (g/capita/day),Millet and products,2013,g/capita/day,1.94
+Fat supply quantity (g/capita/day),Millet and products,2007,g/capita/day,0.85
+Fat supply quantity (g/capita/day),Millet and products,2008,g/capita/day,0.81
+Fat supply quantity (g/capita/day),Millet and products,2009,g/capita/day,0.74
+Fat supply quantity (g/capita/day),Millet and products,2010,g/capita/day,0.84
+Fat supply quantity (g/capita/day),Millet and products,2011,g/capita/day,0.86
+Fat supply quantity (g/capita/day),Millet and products,2012,g/capita/day,0.75
+Fat supply quantity (g/capita/day),Millet and products,2013,g/capita/day,0.76
+Production,Sorghum and products,2007,1000 tonnes,7151
+Production,Sorghum and products,2008,1000 tonnes,7926
+Production,Sorghum and products,2009,1000 tonnes,7246
+Production,Sorghum and products,2010,1000 tonnes,6698
+Production,Sorghum and products,2011,1000 tonnes,7003
+Production,Sorghum and products,2012,1000 tonnes,5980
+Production,Sorghum and products,2013,1000 tonnes,5280
+Import Quantity,Sorghum and products,2007,1000 tonnes,0
+Import Quantity,Sorghum and products,2008,1000 tonnes,0
+Import Quantity,Sorghum and products,2009,1000 tonnes,0
+Import Quantity,Sorghum and products,2010,1000 tonnes,0
+Import Quantity,Sorghum and products,2011,1000 tonnes,0
+Import Quantity,Sorghum and products,2012,1000 tonnes,0
+Import Quantity,Sorghum and products,2013,1000 tonnes,0
+Export Quantity,Sorghum and products,2007,1000 tonnes,42
+Export Quantity,Sorghum and products,2008,1000 tonnes,90
+Export Quantity,Sorghum and products,2009,1000 tonnes,81
+Export Quantity,Sorghum and products,2010,1000 tonnes,130
+Export Quantity,Sorghum and products,2011,1000 tonnes,38
+Export Quantity,Sorghum and products,2012,1000 tonnes,149
+Export Quantity,Sorghum and products,2013,1000 tonnes,219
+Domestic supply quantity,Sorghum and products,2007,1000 tonnes,7109
+Domestic supply quantity,Sorghum and products,2008,1000 tonnes,7836
+Domestic supply quantity,Sorghum and products,2009,1000 tonnes,7164
+Domestic supply quantity,Sorghum and products,2010,1000 tonnes,6568
+Domestic supply quantity,Sorghum and products,2011,1000 tonnes,6965
+Domestic supply quantity,Sorghum and products,2012,1000 tonnes,5831
+Domestic supply quantity,Sorghum and products,2013,1000 tonnes,5061
+Feed,Sorghum and products,2007,1000 tonnes,86
+Feed,Sorghum and products,2008,1000 tonnes,95
+Feed,Sorghum and products,2009,1000 tonnes,87
+Feed,Sorghum and products,2010,1000 tonnes,80
+Feed,Sorghum and products,2011,1000 tonnes,70
+Feed,Sorghum and products,2012,1000 tonnes,60
+Feed,Sorghum and products,2013,1000 tonnes,53
+Seed,Sorghum and products,2007,1000 tonnes,233
+Seed,Sorghum and products,2008,1000 tonnes,226
+Seed,Sorghum and products,2009,1000 tonnes,234
+Seed,Sorghum and products,2010,1000 tonnes,221
+Seed,Sorghum and products,2011,1000 tonnes,188
+Seed,Sorghum and products,2012,1000 tonnes,185
+Seed,Sorghum and products,2013,1000 tonnes,165
+Losses,Sorghum and products,2007,1000 tonnes,493
+Losses,Sorghum and products,2008,1000 tonnes,546
+Losses,Sorghum and products,2009,1000 tonnes,499
+Losses,Sorghum and products,2010,1000 tonnes,461
+Losses,Sorghum and products,2011,1000 tonnes,483
+Losses,Sorghum and products,2012,1000 tonnes,411
+Losses,Sorghum and products,2013,1000 tonnes,362
+Processing,Sorghum and products,2007,1000 tonnes,0
+Processing,Sorghum and products,2008,1000 tonnes,0
+Processing,Sorghum and products,2009,1000 tonnes,0
+Processing,Sorghum and products,2010,1000 tonnes,0
+Processing,Sorghum and products,2011,1000 tonnes,0
+Processing,Sorghum and products,2012,1000 tonnes,0
+Processing,Sorghum and products,2013,1000 tonnes,0
+Food,Sorghum and products,2007,1000 tonnes,6297
+Food,Sorghum and products,2008,1000 tonnes,6969
+Food,Sorghum and products,2009,1000 tonnes,6345
+Food,Sorghum and products,2010,1000 tonnes,5806
+Food,Sorghum and products,2011,1000 tonnes,6224
+Food,Sorghum and products,2012,1000 tonnes,5175
+Food,Sorghum and products,2013,1000 tonnes,4481
+Food supply quantity (kg/capita/yr),Sorghum and products,2007,kg,5.43
+Food supply quantity (kg/capita/yr),Sorghum and products,2008,kg,5.93
+Food supply quantity (kg/capita/yr),Sorghum and products,2009,kg,5.33
+Food supply quantity (kg/capita/yr),Sorghum and products,2010,kg,4.82
+Food supply quantity (kg/capita/yr),Sorghum and products,2011,kg,5.1
+Food supply quantity (kg/capita/yr),Sorghum and products,2012,kg,4.18
+Food supply quantity (kg/capita/yr),Sorghum and products,2013,kg,3.58
+Food supply (kcal/capita/day),Sorghum and products,2007,kcal/capita/day,48
+Food supply (kcal/capita/day),Sorghum and products,2008,kcal/capita/day,53
+Food supply (kcal/capita/day),Sorghum and products,2009,kcal/capita/day,47
+Food supply (kcal/capita/day),Sorghum and products,2010,kcal/capita/day,43
+Food supply (kcal/capita/day),Sorghum and products,2011,kcal/capita/day,45
+Food supply (kcal/capita/day),Sorghum and products,2012,kcal/capita/day,37
+Food supply (kcal/capita/day),Sorghum and products,2013,kcal/capita/day,32
+Protein supply quantity (g/capita/day),Sorghum and products,2007,g/capita/day,1.41
+Protein supply quantity (g/capita/day),Sorghum and products,2008,g/capita/day,1.54
+Protein supply quantity (g/capita/day),Sorghum and products,2009,g/capita/day,1.39
+Protein supply quantity (g/capita/day),Sorghum and products,2010,g/capita/day,1.25
+Protein supply quantity (g/capita/day),Sorghum and products,2011,g/capita/day,1.33
+Protein supply quantity (g/capita/day),Sorghum and products,2012,g/capita/day,1.09
+Protein supply quantity (g/capita/day),Sorghum and products,2013,g/capita/day,0.93
+Fat supply quantity (g/capita/day),Sorghum and products,2007,g/capita/day,0.52
+Fat supply quantity (g/capita/day),Sorghum and products,2008,g/capita/day,0.57
+Fat supply quantity (g/capita/day),Sorghum and products,2009,g/capita/day,0.51
+Fat supply quantity (g/capita/day),Sorghum and products,2010,g/capita/day,0.46
+Fat supply quantity (g/capita/day),Sorghum and products,2011,g/capita/day,0.49
+Fat supply quantity (g/capita/day),Sorghum and products,2012,g/capita/day,0.4
+Fat supply quantity (g/capita/day),Sorghum and products,2013,g/capita/day,0.34
+Production,Sugar cane,2007,1000 tonnes,355520
+Production,Sugar cane,2008,1000 tonnes,348188
+Production,Sugar cane,2009,1000 tonnes,285029
+Production,Sugar cane,2010,1000 tonnes,292302
+Production,Sugar cane,2011,1000 tonnes,342382
+Production,Sugar cane,2012,1000 tonnes,361037
+Production,Sugar cane,2013,1000 tonnes,341200
+Import Quantity,Sugar cane,2007,1000 tonnes,0
+Import Quantity,Sugar cane,2008,1000 tonnes,0
+Import Quantity,Sugar cane,2009,1000 tonnes,0
+Import Quantity,Sugar cane,2010,1000 tonnes,0
+Import Quantity,Sugar cane,2011,1000 tonnes,0
+Import Quantity,Sugar cane,2012,1000 tonnes,0
+Import Quantity,Sugar cane,2013,1000 tonnes,0
+Export Quantity,Sugar cane,2007,1000 tonnes,0
+Export Quantity,Sugar cane,2008,1000 tonnes,0
+Export Quantity,Sugar cane,2009,1000 tonnes,0
+Export Quantity,Sugar cane,2010,1000 tonnes,0
+Export Quantity,Sugar cane,2011,1000 tonnes,0
+Export Quantity,Sugar cane,2012,1000 tonnes,0
+Export Quantity,Sugar cane,2013,1000 tonnes,0
+Domestic supply quantity,Sugar cane,2007,1000 tonnes,355520
+Domestic supply quantity,Sugar cane,2008,1000 tonnes,348188
+Domestic supply quantity,Sugar cane,2009,1000 tonnes,285029
+Domestic supply quantity,Sugar cane,2010,1000 tonnes,292302
+Domestic supply quantity,Sugar cane,2011,1000 tonnes,342382
+Domestic supply quantity,Sugar cane,2012,1000 tonnes,361037
+Domestic supply quantity,Sugar cane,2013,1000 tonnes,341200
+Feed,Sugar cane,2007,1000 tonnes,5333
+Feed,Sugar cane,2008,1000 tonnes,6964
+Feed,Sugar cane,2009,1000 tonnes,5701
+Feed,Sugar cane,2010,1000 tonnes,5846
+Feed,Sugar cane,2011,1000 tonnes,6848
+Feed,Sugar cane,2012,1000 tonnes,7221
+Feed,Sugar cane,2013,1000 tonnes,6824
+Seed,Sugar cane,2007,1000 tonnes,17776
+Seed,Sugar cane,2008,1000 tonnes,17409
+Seed,Sugar cane,2009,1000 tonnes,14251
+Seed,Sugar cane,2010,1000 tonnes,14615
+Seed,Sugar cane,2011,1000 tonnes,17119
+Seed,Sugar cane,2012,1000 tonnes,18052
+Seed,Sugar cane,2013,1000 tonnes,17060
+Losses,Sugar cane,2007,1000 tonnes,5333
+Losses,Sugar cane,2008,1000 tonnes,5223
+Losses,Sugar cane,2009,1000 tonnes,4275
+Losses,Sugar cane,2010,1000 tonnes,4385
+Losses,Sugar cane,2011,1000 tonnes,5136
+Losses,Sugar cane,2012,1000 tonnes,5416
+Losses,Sugar cane,2013,1000 tonnes,5118
+Processing,Sugar cane,2007,1000 tonnes,312858
+Processing,Sugar cane,2008,1000 tonnes,306407
+Processing,Sugar cane,2009,1000 tonnes,250800
+Processing,Sugar cane,2010,1000 tonnes,257218
+Processing,Sugar cane,2011,1000 tonnes,301300
+Processing,Sugar cane,2012,1000 tonnes,317700
+Processing,Sugar cane,2013,1000 tonnes,300250
+Food,Sugar cane,2007,1000 tonnes,14220
+Food,Sugar cane,2008,1000 tonnes,12185
+Food,Sugar cane,2009,1000 tonnes,10002
+Food,Sugar cane,2010,1000 tonnes,10238
+Food,Sugar cane,2011,1000 tonnes,11980
+Food,Sugar cane,2012,1000 tonnes,12649
+Food,Sugar cane,2013,1000 tonnes,11948
+Food supply quantity (kg/capita/yr),Sugar cane,2007,kg,12.27
+Food supply quantity (kg/capita/yr),Sugar cane,2008,kg,10.37
+Food supply quantity (kg/capita/yr),Sugar cane,2009,kg,8.4
+Food supply quantity (kg/capita/yr),Sugar cane,2010,kg,8.49
+Food supply quantity (kg/capita/yr),Sugar cane,2011,kg,9.81
+Food supply quantity (kg/capita/yr),Sugar cane,2012,kg,10.23
+Food supply quantity (kg/capita/yr),Sugar cane,2013,kg,9.54
+Food supply (kcal/capita/day),Sugar cane,2007,kcal/capita/day,10
+Food supply (kcal/capita/day),Sugar cane,2008,kcal/capita/day,8
+Food supply (kcal/capita/day),Sugar cane,2009,kcal/capita/day,7
+Food supply (kcal/capita/day),Sugar cane,2010,kcal/capita/day,7
+Food supply (kcal/capita/day),Sugar cane,2011,kcal/capita/day,8
+Food supply (kcal/capita/day),Sugar cane,2012,kcal/capita/day,8
+Food supply (kcal/capita/day),Sugar cane,2013,kcal/capita/day,8
+Protein supply quantity (g/capita/day),Sugar cane,2007,g/capita/day,0.03
+Protein supply quantity (g/capita/day),Sugar cane,2008,g/capita/day,0.03
+Protein supply quantity (g/capita/day),Sugar cane,2009,g/capita/day,0.02
+Protein supply quantity (g/capita/day),Sugar cane,2010,g/capita/day,0.02
+Protein supply quantity (g/capita/day),Sugar cane,2011,g/capita/day,0.03
+Protein supply quantity (g/capita/day),Sugar cane,2012,g/capita/day,0.03
+Protein supply quantity (g/capita/day),Sugar cane,2013,g/capita/day,0.03
+Fat supply quantity (g/capita/day),Sugar cane,2007,g/capita/day,0.07
+Fat supply quantity (g/capita/day),Sugar cane,2008,g/capita/day,0.06
+Fat supply quantity (g/capita/day),Sugar cane,2009,g/capita/day,0.05
+Fat supply quantity (g/capita/day),Sugar cane,2010,g/capita/day,0.05
+Fat supply quantity (g/capita/day),Sugar cane,2011,g/capita/day,0.05
+Fat supply quantity (g/capita/day),Sugar cane,2012,g/capita/day,0.06
+Fat supply quantity (g/capita/day),Sugar cane,2013,g/capita/day,0.05
+Production,Soyabeans,2007,1000 tonnes,10968
+Production,Soyabeans,2008,1000 tonnes,9905
+Production,Soyabeans,2009,1000 tonnes,9965
+Production,Soyabeans,2010,1000 tonnes,12736
+Production,Soyabeans,2011,1000 tonnes,12214
+Production,Soyabeans,2012,1000 tonnes,14666
+Production,Soyabeans,2013,1000 tonnes,11948
+Import Quantity,Soyabeans,2007,1000 tonnes,0
+Import Quantity,Soyabeans,2008,1000 tonnes,0
+Import Quantity,Soyabeans,2009,1000 tonnes,0
+Import Quantity,Soyabeans,2010,1000 tonnes,0
+Import Quantity,Soyabeans,2011,1000 tonnes,1
+Import Quantity,Soyabeans,2012,1000 tonnes,1
+Import Quantity,Soyabeans,2013,1000 tonnes,1
+Stock Variation,Soyabeans,2007,1000 tonnes,-50
+Stock Variation,Soyabeans,2008,1000 tonnes,20
+Stock Variation,Soyabeans,2009,1000 tonnes,30
+Stock Variation,Soyabeans,2010,1000 tonnes,-150
+Stock Variation,Soyabeans,2011,1000 tonnes,50
+Stock Variation,Soyabeans,2012,1000 tonnes,-200
+Stock Variation,Soyabeans,2013,1000 tonnes,-500
+Export Quantity,Soyabeans,2007,1000 tonnes,41
+Export Quantity,Soyabeans,2008,1000 tonnes,70
+Export Quantity,Soyabeans,2009,1000 tonnes,43
+Export Quantity,Soyabeans,2010,1000 tonnes,23
+Export Quantity,Soyabeans,2011,1000 tonnes,46
+Export Quantity,Soyabeans,2012,1000 tonnes,66
+Export Quantity,Soyabeans,2013,1000 tonnes,332
+Domestic supply quantity,Soyabeans,2007,1000 tonnes,10877
+Domestic supply quantity,Soyabeans,2008,1000 tonnes,9855
+Domestic supply quantity,Soyabeans,2009,1000 tonnes,9952
+Domestic supply quantity,Soyabeans,2010,1000 tonnes,12564
+Domestic supply quantity,Soyabeans,2011,1000 tonnes,12219
+Domestic supply quantity,Soyabeans,2012,1000 tonnes,14401
+Domestic supply quantity,Soyabeans,2013,1000 tonnes,11118
+Seed,Soyabeans,2007,1000 tonnes,571
+Seed,Soyabeans,2008,1000 tonnes,584
+Seed,Soyabeans,2009,1000 tonnes,573
+Seed,Soyabeans,2010,1000 tonnes,611
+Seed,Soyabeans,2011,1000 tonnes,650
+Seed,Soyabeans,2012,1000 tonnes,732
+Seed,Soyabeans,2013,1000 tonnes,696
+Losses,Soyabeans,2007,1000 tonnes,494
+Losses,Soyabeans,2008,1000 tonnes,447
+Losses,Soyabeans,2009,1000 tonnes,450
+Losses,Soyabeans,2010,1000 tonnes,573
+Losses,Soyabeans,2011,1000 tonnes,552
+Losses,Soyabeans,2012,1000 tonnes,660
+Losses,Soyabeans,2013,1000 tonnes,538
+Processing,Soyabeans,2007,1000 tonnes,9750
+Processing,Soyabeans,2008,1000 tonnes,8800
+Processing,Soyabeans,2009,1000 tonnes,8900
+Processing,Soyabeans,2010,1000 tonnes,11322
+Processing,Soyabeans,2011,1000 tonnes,10917
+Processing,Soyabeans,2012,1000 tonnes,12567
+Processing,Soyabeans,2013,1000 tonnes,9400
+Food,Soyabeans,2007,1000 tonnes,63
+Food,Soyabeans,2008,1000 tonnes,25
+Food,Soyabeans,2009,1000 tonnes,29
+Food,Soyabeans,2010,1000 tonnes,58
+Food,Soyabeans,2011,1000 tonnes,100
+Food,Soyabeans,2012,1000 tonnes,442
+Food,Soyabeans,2013,1000 tonnes,484
+Food supply quantity (kg/capita/yr),Soyabeans,2007,kg,0.05
+Food supply quantity (kg/capita/yr),Soyabeans,2008,kg,0.02
+Food supply quantity (kg/capita/yr),Soyabeans,2009,kg,0.02
+Food supply quantity (kg/capita/yr),Soyabeans,2010,kg,0.05
+Food supply quantity (kg/capita/yr),Soyabeans,2011,kg,0.08
+Food supply quantity (kg/capita/yr),Soyabeans,2012,kg,0.36
+Food supply quantity (kg/capita/yr),Soyabeans,2013,kg,0.39
+Food supply (kcal/capita/day),Soyabeans,2007,kcal/capita/day,0
+Food supply (kcal/capita/day),Soyabeans,2008,kcal/capita/day,0
+Food supply (kcal/capita/day),Soyabeans,2009,kcal/capita/day,0
+Food supply (kcal/capita/day),Soyabeans,2010,kcal/capita/day,0
+Food supply (kcal/capita/day),Soyabeans,2011,kcal/capita/day,1
+Food supply (kcal/capita/day),Soyabeans,2012,kcal/capita/day,3
+Food supply (kcal/capita/day),Soyabeans,2013,kcal/capita/day,4
+Protein supply quantity (g/capita/day),Soyabeans,2007,g/capita/day,0.06
+Protein supply quantity (g/capita/day),Soyabeans,2008,g/capita/day,0.02
+Protein supply quantity (g/capita/day),Soyabeans,2009,g/capita/day,0.03
+Protein supply quantity (g/capita/day),Soyabeans,2010,g/capita/day,0.05
+Protein supply quantity (g/capita/day),Soyabeans,2011,g/capita/day,0.08
+Protein supply quantity (g/capita/day),Soyabeans,2012,g/capita/day,0.37
+Protein supply quantity (g/capita/day),Soyabeans,2013,g/capita/day,0.4
+Fat supply quantity (g/capita/day),Soyabeans,2007,g/capita/day,0.03
+Fat supply quantity (g/capita/day),Soyabeans,2008,g/capita/day,0.01
+Fat supply quantity (g/capita/day),Soyabeans,2009,g/capita/day,0.01
+Fat supply quantity (g/capita/day),Soyabeans,2010,g/capita/day,0.02
+Fat supply quantity (g/capita/day),Soyabeans,2011,g/capita/day,0.04
+Fat supply quantity (g/capita/day),Soyabeans,2012,g/capita/day,0.18
+Fat supply quantity (g/capita/day),Soyabeans,2013,g/capita/day,0.19
+Production,Groundnuts (Shelled Eq),2007,1000 tonnes,6428
+Production,Groundnuts (Shelled Eq),2008,1000 tonnes,5018
+Production,Groundnuts (Shelled Eq),2009,1000 tonnes,3800
+Production,Groundnuts (Shelled Eq),2010,1000 tonnes,5785
+Production,Groundnuts (Shelled Eq),2011,1000 tonnes,4875
+Production,Groundnuts (Shelled Eq),2012,1000 tonnes,3286
+Production,Groundnuts (Shelled Eq),2013,1000 tonnes,6630
+Import Quantity,Groundnuts (Shelled Eq),2007,1000 tonnes,0
+Import Quantity,Groundnuts (Shelled Eq),2008,1000 tonnes,0
+Import Quantity,Groundnuts (Shelled Eq),2009,1000 tonnes,0
+Import Quantity,Groundnuts (Shelled Eq),2010,1000 tonnes,1
+Import Quantity,Groundnuts (Shelled Eq),2011,1000 tonnes,1
+Import Quantity,Groundnuts (Shelled Eq),2012,1000 tonnes,0
+Import Quantity,Groundnuts (Shelled Eq),2013,1000 tonnes,1
+Stock Variation,Groundnuts (Shelled Eq),2007,1000 tonnes,-12
+Stock Variation,Groundnuts (Shelled Eq),2008,1000 tonnes,245
+Stock Variation,Groundnuts (Shelled Eq),2009,1000 tonnes,470
+Stock Variation,Groundnuts (Shelled Eq),2010,1000 tonnes,114
+Stock Variation,Groundnuts (Shelled Eq),2011,1000 tonnes,483
+Stock Variation,Groundnuts (Shelled Eq),2012,1000 tonnes,1975
+Stock Variation,Groundnuts (Shelled Eq),2013,1000 tonnes,-2082
+Export Quantity,Groundnuts (Shelled Eq),2007,1000 tonnes,264
+Export Quantity,Groundnuts (Shelled Eq),2008,1000 tonnes,306
+Export Quantity,Groundnuts (Shelled Eq),2009,1000 tonnes,343
+Export Quantity,Groundnuts (Shelled Eq),2010,1000 tonnes,383
+Export Quantity,Groundnuts (Shelled Eq),2011,1000 tonnes,766
+Export Quantity,Groundnuts (Shelled Eq),2012,1000 tonnes,659
+Export Quantity,Groundnuts (Shelled Eq),2013,1000 tonnes,557
+Domestic supply quantity,Groundnuts (Shelled Eq),2007,1000 tonnes,6152
+Domestic supply quantity,Groundnuts (Shelled Eq),2008,1000 tonnes,4956
+Domestic supply quantity,Groundnuts (Shelled Eq),2009,1000 tonnes,3927
+Domestic supply quantity,Groundnuts (Shelled Eq),2010,1000 tonnes,5518
+Domestic supply quantity,Groundnuts (Shelled Eq),2011,1000 tonnes,4594
+Domestic supply quantity,Groundnuts (Shelled Eq),2012,1000 tonnes,4603
+Domestic supply quantity,Groundnuts (Shelled Eq),2013,1000 tonnes,3992
+Seed,Groundnuts (Shelled Eq),2007,1000 tonnes,302
+Seed,Groundnuts (Shelled Eq),2008,1000 tonnes,268
+Seed,Groundnuts (Shelled Eq),2009,1000 tonnes,287
+Seed,Groundnuts (Shelled Eq),2010,1000 tonnes,260
+Seed,Groundnuts (Shelled Eq),2011,1000 tonnes,234
+Seed,Groundnuts (Shelled Eq),2012,1000 tonnes,257
+Seed,Groundnuts (Shelled Eq),2013,1000 tonnes,255
+Losses,Groundnuts (Shelled Eq),2007,1000 tonnes,129
+Losses,Groundnuts (Shelled Eq),2008,1000 tonnes,100
+Losses,Groundnuts (Shelled Eq),2009,1000 tonnes,76
+Losses,Groundnuts (Shelled Eq),2010,1000 tonnes,116
+Losses,Groundnuts (Shelled Eq),2011,1000 tonnes,146
+Losses,Groundnuts (Shelled Eq),2012,1000 tonnes,99
+Losses,Groundnuts (Shelled Eq),2013,1000 tonnes,199
+Processing,Groundnuts (Shelled Eq),2007,1000 tonnes,5203
+Processing,Groundnuts (Shelled Eq),2008,1000 tonnes,4110
+Processing,Groundnuts (Shelled Eq),2009,1000 tonnes,3119
+Processing,Groundnuts (Shelled Eq),2010,1000 tonnes,4691
+Processing,Groundnuts (Shelled Eq),2011,1000 tonnes,3903
+Processing,Groundnuts (Shelled Eq),2012,1000 tonnes,3967
+Processing,Groundnuts (Shelled Eq),2013,1000 tonnes,3093
+Food,Groundnuts (Shelled Eq),2007,1000 tonnes,518
+Food,Groundnuts (Shelled Eq),2008,1000 tonnes,477
+Food,Groundnuts (Shelled Eq),2009,1000 tonnes,446
+Food,Groundnuts (Shelled Eq),2010,1000 tonnes,451
+Food,Groundnuts (Shelled Eq),2011,1000 tonnes,311
+Food,Groundnuts (Shelled Eq),2012,1000 tonnes,280
+Food,Groundnuts (Shelled Eq),2013,1000 tonnes,445
+Food supply quantity (kg/capita/yr),Groundnuts (Shelled Eq),2007,kg,0.45
+Food supply quantity (kg/capita/yr),Groundnuts (Shelled Eq),2008,kg,0.41
+Food supply quantity (kg/capita/yr),Groundnuts (Shelled Eq),2009,kg,0.37
+Food supply quantity (kg/capita/yr),Groundnuts (Shelled Eq),2010,kg,0.37
+Food supply quantity (kg/capita/yr),Groundnuts (Shelled Eq),2011,kg,0.25
+Food supply quantity (kg/capita/yr),Groundnuts (Shelled Eq),2012,kg,0.23
+Food supply quantity (kg/capita/yr),Groundnuts (Shelled Eq),2013,kg,0.36
+Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2007,kcal/capita/day,6
+Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2008,kcal/capita/day,6
+Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2009,kcal/capita/day,5
+Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2010,kcal/capita/day,5
+Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2011,kcal/capita/day,4
+Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2012,kcal/capita/day,3
+Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2013,kcal/capita/day,5
+Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),2007,g/capita/day,0.27
+Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),2008,g/capita/day,0.25
+Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),2009,g/capita/day,0.23
+Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),2010,g/capita/day,0.23
+Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),2011,g/capita/day,0.15
+Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),2012,g/capita/day,0.14
+Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),2013,g/capita/day,0.21
+Fat supply quantity (g/capita/day),Groundnuts (Shelled Eq),2007,g/capita/day,0.52
+Fat supply quantity (g/capita/day),Groundnuts (Shelled Eq),2008,g/capita/day,0.47
+Fat supply quantity (g/capita/day),Groundnuts (Shelled Eq),2009,g/capita/day,0.44
+Fat supply quantity (g/capita/day),Groundnuts (Shelled Eq),2010,g/capita/day,0.44
+Fat supply quantity (g/capita/day),Groundnuts (Shelled Eq),2011,g/capita/day,0.3
+Fat supply quantity (g/capita/day),Groundnuts (Shelled Eq),2012,g/capita/day,0.27
+Fat supply quantity (g/capita/day),Groundnuts (Shelled Eq),2013,g/capita/day,0.41
+Production,Soyabean Oil,2007,1000 tonnes,1755
+Production,Soyabean Oil,2008,1000 tonnes,1585
+Production,Soyabean Oil,2009,1000 tonnes,1594
+Production,Soyabean Oil,2010,1000 tonnes,2038
+Production,Soyabean Oil,2011,1000 tonnes,1954
+Production,Soyabean Oil,2012,1000 tonnes,2262
+Production,Soyabean Oil,2013,1000 tonnes,1690
+Import Quantity,Soyabean Oil,2007,1000 tonnes,1139
+Import Quantity,Soyabean Oil,2008,1000 tonnes,699
+Import Quantity,Soyabean Oil,2009,1000 tonnes,1101
+Import Quantity,Soyabean Oil,2010,1000 tonnes,924
+Import Quantity,Soyabean Oil,2011,1000 tonnes,939
+Import Quantity,Soyabean Oil,2012,1000 tonnes,1094
+Import Quantity,Soyabean Oil,2013,1000 tonnes,1108
+Stock Variation,Soyabean Oil,2007,1000 tonnes,1
+Stock Variation,Soyabean Oil,2008,1000 tonnes,8
+Stock Variation,Soyabean Oil,2009,1000 tonnes,3
+Stock Variation,Soyabean Oil,2010,1000 tonnes,-48
+Stock Variation,Soyabean Oil,2011,1000 tonnes,-37
+Stock Variation,Soyabean Oil,2012,1000 tonnes,5
+Stock Variation,Soyabean Oil,2013,1000 tonnes,-29
+Export Quantity,Soyabean Oil,2007,1000 tonnes,17
+Export Quantity,Soyabean Oil,2008,1000 tonnes,1
+Export Quantity,Soyabean Oil,2009,1000 tonnes,2
+Export Quantity,Soyabean Oil,2010,1000 tonnes,1
+Export Quantity,Soyabean Oil,2011,1000 tonnes,10
+Export Quantity,Soyabean Oil,2012,1000 tonnes,1
+Export Quantity,Soyabean Oil,2013,1000 tonnes,0
+Domestic supply quantity,Soyabean Oil,2007,1000 tonnes,2878
+Domestic supply quantity,Soyabean Oil,2008,1000 tonnes,2291
+Domestic supply quantity,Soyabean Oil,2009,1000 tonnes,2696
+Domestic supply quantity,Soyabean Oil,2010,1000 tonnes,2913
+Domestic supply quantity,Soyabean Oil,2011,1000 tonnes,2846
+Domestic supply quantity,Soyabean Oil,2012,1000 tonnes,3360
+Domestic supply quantity,Soyabean Oil,2013,1000 tonnes,2768
+Other uses,Soyabean Oil,2007,1000 tonnes,800
+Other uses,Soyabean Oil,2008,1000 tonnes,700
+Other uses,Soyabean Oil,2009,1000 tonnes,700
+Other uses,Soyabean Oil,2010,1000 tonnes,1000
+Other uses,Soyabean Oil,2011,1000 tonnes,900
+Other uses,Soyabean Oil,2012,1000 tonnes,1100
+Other uses,Soyabean Oil,2013,1000 tonnes,500
+Food,Soyabean Oil,2007,1000 tonnes,2078
+Food,Soyabean Oil,2008,1000 tonnes,1591
+Food,Soyabean Oil,2009,1000 tonnes,1996
+Food,Soyabean Oil,2010,1000 tonnes,1913
+Food,Soyabean Oil,2011,1000 tonnes,1946
+Food,Soyabean Oil,2012,1000 tonnes,2260
+Food,Soyabean Oil,2013,1000 tonnes,2268
+Food supply quantity (kg/capita/yr),Soyabean Oil,2007,kg,1.79
+Food supply quantity (kg/capita/yr),Soyabean Oil,2008,kg,1.35
+Food supply quantity (kg/capita/yr),Soyabean Oil,2009,kg,1.68
+Food supply quantity (kg/capita/yr),Soyabean Oil,2010,kg,1.59
+Food supply quantity (kg/capita/yr),Soyabean Oil,2011,kg,1.59
+Food supply quantity (kg/capita/yr),Soyabean Oil,2012,kg,1.83
+Food supply quantity (kg/capita/yr),Soyabean Oil,2013,kg,1.81
+Food supply (kcal/capita/day),Soyabean Oil,2007,kcal/capita/day,44
+Food supply (kcal/capita/day),Soyabean Oil,2008,kcal/capita/day,33
+Food supply (kcal/capita/day),Soyabean Oil,2009,kcal/capita/day,41
+Food supply (kcal/capita/day),Soyabean Oil,2010,kcal/capita/day,39
+Food supply (kcal/capita/day),Soyabean Oil,2011,kcal/capita/day,39
+Food supply (kcal/capita/day),Soyabean Oil,2012,kcal/capita/day,44
+Food supply (kcal/capita/day),Soyabean Oil,2013,kcal/capita/day,43
+Fat supply quantity (g/capita/day),Soyabean Oil,2007,g/capita/day,4.96
+Fat supply quantity (g/capita/day),Soyabean Oil,2008,g/capita/day,3.78
+Fat supply quantity (g/capita/day),Soyabean Oil,2009,g/capita/day,4.65
+Fat supply quantity (g/capita/day),Soyabean Oil,2010,g/capita/day,4.38
+Fat supply quantity (g/capita/day),Soyabean Oil,2011,g/capita/day,4.39
+Fat supply quantity (g/capita/day),Soyabean Oil,2012,g/capita/day,5.01
+Fat supply quantity (g/capita/day),Soyabean Oil,2013,g/capita/day,4.89
