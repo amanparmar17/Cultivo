@@ -1,0 +1,49 @@
+apy.csv----- original datset
+
+apy_org.csv------ a copy of the original datset
+
+norm_data_apy----contains additional info of the noramlised(state wise) data for 10 crops states for crops with growing area >200
+
+
+-----contains the noramlised(state wise) info for for 10 crops states for crops with growing area >200 AND WITH PROD_AREA >1(as for instance anantgram-ap only, have 500+crops)
+
+
+
+distinct_crops_apy---------distinct crops total 309 in number
+
+final_apy--------------lat and long, adn normalised, prod/area included in apy_org 
+
+crops dataset------- contains the requirement details of th e11 crops selected...
+
+
+FOASTAT----------contains the info about area harvested yield and production of 10-11 crops(required for the main analysis and prediction) for 10 years in units including ha,hg/ha,tonnes...
+
+food_balance----------contains data abbt production,import quantity,stock variation,export quantity,domestic supply,feed,seed,losses,processing,food,food supply quantity,protein supply,fat supply  about 10-11 crops for 10 yrs
+
+value_data------------contains info abt gross production value,net production value for 10-11 crops for 10 years.
+
+
+crop_final_details_apy----------no of rows reduced to 44k by seecting the 11 intended crops
+
+
+
+
+
+
+
+
+
+
+
+
+one.csv---------edited version of value_data.csv
+
+two.csv---------edited version of FOASTAT.csv
+
+three.csv--------edited version of food_balance.csv(have to be verified)
+
+
+
+
+prod_area_red-------contains the predicted and org val of the prod_area attribute
+

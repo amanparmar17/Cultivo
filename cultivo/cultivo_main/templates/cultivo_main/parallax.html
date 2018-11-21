@@ -1,0 +1,229 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <!-- GSAP -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+    <!--FONTS -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Poppins" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+<style>
+
+html, body {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100vh;
+  font-family: "Playfair Display";
+  font-weight:lighter;
+}
+
+
+.con1
+{
+  opacity: .8;
+  background-color: #383D00;
+  color: white;
+  font-family: "Playfair Display";
+  font-weight:lighter;
+}
+
+.con2
+{
+  opacity: .8;
+  background-color: #D69003;
+  color: white;
+  font-family: "Playfair Display";
+  font-weight:lighter;
+}
+
+
+
+.parallax {
+    background-image: url('https://hdqwalls.com/wallpapers/sunset-fields-wide.jpg');
+
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax2 {
+    background-image: url('https://hdqwalls.com/wallpapers/sunset-fields-wide.jpg');
+
+    height: 1%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#name
+{
+  position:absolute;
+  top:7%;
+  left:10%;
+  transform:translate(-50%, -50%);
+  color:white;
+  font-size:48px;
+  font-family: "Playfair Display";
+  font-weight:lighter;
+}
+
+a {
+  text-decoration:none;
+  color:#fff;
+}
+
+th,td
+{
+  text-align:center;
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+    <div id="name"><a href={% url 'cultivo_main:home'%}>Cultivo</a></div>
+
+
+<!-- ===================================================================================================================== -->
+
+<div class="parallax" style="padding-top: 245px">
+
+  <div class='con1' align='center'>
+    <div>
+      <h5 style="margin-bottom:12px;margin-top: 0px;padding-top: 20px">You are in</h6>
+      <u><span style='font-size:18px;margin-top: 15px;'>{{final.district|title}}, </span><span style='font-size:18px;'>{{final.state|title}}</span></u>
+    </div><br>
+    <div style="margin: -155px 0 -110px 0;"><p style="font-size: 130px">{{temp_det.temperature}}<sup>o</sup>C</p></div><br>
+    <div style=" padding-bottom: 10px;">
+      <span style="padding-left:10px;"><img style="padding-right:5px;margin-top:5px;" src="{% static 'cultivo_main/icon-umberella.png' %}" alt="">{{temp_det.humidity}}</span>
+      <span style="padding-left:10px;"><img style="padding-right:5px;margin-top:5px;" src="{% static 'cultivo_main/icon-wind.png'%}" alt="">{{temp_det.windspeed}}</span>
+      <span style="padding-left:10px;"><img style="padding-right:5px;margin-top:5px;" src="{% static 'cultivo_main/icon-compass.png'%}" alt="">{{temp_det.winddirection}} <sup>o</sup></span>
+      <span style="padding-left:10px;"><img style="padding-right:5px;margin-top:5px;" src="{% static 'cultivo_main/icon-umberella.png' %}" alt="">{{temp_det.humidity}}</span>
+      <span style="padding-left:10px;"><img style="padding-right:5px;margin-top:5px;" src="{% static 'cultivo_main/icon-wind.png'%}" alt="">{{temp_det.latitude}} <sup>o</sup></span>
+      <span style="padding-left:10px;"><img style="padding-right:5px;margin-top:5px;" src="{% static 'cultivo_main/icon-compass.png'%}" alt="">{{temp_det.longitude}} <sup>o</sup></span>
+    </div>
+  </div>
+</div>
+
+<!-- ===================================================================================================================== -->
+<div class="parallax" style="margin-top: -80px;">
+      
+
+      <div class='con1' align="center">
+        
+        <h3 style="margin-top: 0px;padding-top: 35px;"><u>Soil condition of {{final.district|title}}:</u></h3><br>
+        <table border="0" style="padding-bottom: 20px;font-size: 20px;" cellspacing="40px">
+        <tr>
+          <th>Soil density</th>
+          <th>Precipitation</th>
+          <th>Avg. pressure</th>
+          <th>Skin temperature</th>
+          <th>Humidity</th>
+          <th>Wind</th>
+        </tr>
+        <tr>
+          <td>{{soil.bulk_soil_density}}</td>
+          <td>{{soil.precip}}</td>
+          <td>{{soil.pres_avg}}</td>
+           <td>{{soil.skin_temp_avg}}</td>
+          <td>{{soil.specific_humidity}}</td>
+          <td>{{soil.wind_10m_spd_avg}}</td>
+        </tr>
+      </table>
+
+</div>
+</div>
+
+<!-- ===================================================================================================================== -->
+
+
+<div class="parallax"  style="margin-top: -130px;">
+      
+
+      <div class='con1'  align="center">
+        
+        <h3 style="margin-top: 0px;padding-top: 35px;"><u>Insights about {{final.crop|title}}:</u></h3><br>
+        <table border="0" style="padding-bottom: 20px;font-size: 20px;" cellspacing="40px">
+        <tr>
+          <th>Production</th>
+          <th>Imports</th>
+          <th>Exports</th>
+          <th>Production/sq.Area</th>
+          <th>Gross Production Value</th>
+          <!-- <th>Wind</th> -->
+        </tr>
+        <tr>
+          <td>{{final.production}}</td>
+          <td>{{final.imports}}</td>
+          <td>{{final.exports}}</td>
+           <td>{{final.pred_val}}</td>
+          <td>{{final.Gross_Production_Value_constant_2004_2006_million_US_dollar}}</td>
+          <!-- <td>{{final.wind_10m_spd_avg}}</td> -->
+        </tr>
+      </table>
+
+</div>
+</div>
+
+<!-- ===================================================================================================================== -->
+
+<div class="parallax"  style="margin-top: -100px;">
+      
+
+      <div class='con1'  align="center">
+        
+        <h2 style="margin-top: 0px;padding-top: 35px;"><u>Final Verdict</u></h2><br>
+        <span style="font-size: 160px;margin-top: -70px;">
+          {{finalout_main}}
+        </span>
+        <span style="font-size: 40px; margin-left: -35px;">.{{finalout_dec}}</span>
+        <span style="font-size: 160px;margin-top: -70px;">
+          %
+        </span>
+        <span style="font-size: 45px;">Success</span>
+         <div style="margin-top: 35px;padding-bottom: 20px;">Predicted for <u>{{final.crop}}</u> in <u>{{final.district}}</u></div>
+
+</div>
+</div>
+
+
+<div class="parallax"  style="margin-top: -80px;">
+      
+
+      <div class='con1'  align="center">
+        
+        <h3 style="margin-top: 0px;padding-top: 35px;"><u>Other Suggestions</u></h3><br>
+        <div>
+          <table  border="0" style="padding-bottom: 20px;margin-top:-17px;font-size: 25px;" cellspacing="32px">
+            {% for key, value in ff.items %}
+            <tr>
+                <td>{{key}}</td>
+                <td>{{value}}% <span style="font-size: 15px">success</span></td>
+            </tr>
+            {% endfor %} 
+          </table>
+        </div>
+
+</div>
+</div>
+
+
+       <div class='parallax2' style="padding-top: 10px;padding-bottom: 10px;height: 50px;margin-top: -100px;margin-bottom: -50px;"><div align='center' class="con2">&copy All rights reserved 2018-2019</div></div>
+</body>
+</html>

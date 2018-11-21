@@ -1,0 +1,147 @@
+  {% load static %}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Cultivo</title>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
+		<!-- Loading third party fonts -->
+		<link href="http://fonts.googleapis.com/css?family=Roboto:300,400,700|" rel="stylesheet" type="text/css">
+		<link href="fonts/font-awesome.min.css" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display|Poppins" rel="stylesheet">
+    	<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    	<link href="https://fonts.googleapis.com/css?family=Cinzel|Pathway+Gothic+One|Satisfy|Sedgwick+Ave|Shadows+Into+Light|Slabo+27px" rel="stylesheet">
+		<!-- Loading main css file -->
+		<link rel="stylesheet" href="{% static 'cultivo_main/style.css' %}">
+	</head>
+
+
+
+
+	<style>
+ html, body {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100vh;
+  font-family: "Playfair Display";
+  font-weight:lighter;
+}
+body {
+   background: url(https://hdqwalls.com/wallpapers/sunset-fields-wide.jpg) no-repeat 50% 50%;   background-size:cover;
+  
+}
+</style>
+
+
+
+
+
+	<body>
+		<div class="site-content">
+			<div class="site-header">
+				<div class="container">			
+			</div> <!-- .site-header -->
+			</div>
+			<div class="forecast-table">
+				<div class="container">
+					<div class="forecast-container">
+						<div class="today forecast">
+							<div class="forecast-header">
+								<div class="day">Monday</div>
+								<div class="date">6 Oct</div>
+							</div> <!-- .forecast-header -->
+							<div class="forecast-content">
+								<div class="degree">
+									<div class="num">{{temp_det.temperature}} <sup>o</sup>C</div>
+									
+								</div>
+								<span><img src="{% static 'cultivo_main/icon-umberella.png' %}" alt="">{{temp_det.humidity}}</span>
+								<span><img src="{% static 'cultivo_main/icon-wind.png'%}" alt="">{{temp_det.windspeed}}</span>
+								<span><img src="{% static 'cultivo_main/icon-compass.png'%}" alt="">{{temp_det.winddirection}}</span>
+								<span><img src="{% static 'cultivo_main/icon-umberella.png' %}" alt="">{{temp_det.humidity}}</span>
+								<span><img src="{% static 'cultivo_main/icon-wind.png'%}" alt="">{{temp_det.windspeed}}</span>
+								<span><img src="{% static 'cultivo_main/icon-compass.png'%}" alt="">{{temp_det.winddirection}}</span>
+							</div>
+						</div>
+					<div class="forecast">
+							<div class="forecast-header">
+								<div class="day">Monday</div>
+								<div class="date">6 Oct</div>
+							</div> <!-- .forecast-header -->
+							<div class="forecast-content">
+								<div class="degree" style="margin-left: 50px;">You Are In:</div>
+								<div class="degree" style="margin-left: 50px;display:inline-block;"><h3>{{final.district|title}}</h3>,<h7>{{final.state|title}}</div>
+								
+							</div>
+						</div>
+						
+						
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+<body>
+<div class="container" style="margin-left: 250px;">
+<table >
+	<th><h2>Soil Conditions Of The Area:</h2></th>
+  <tr>
+    <th>Soil cond</th>
+    <th>A</th>
+    <th>C</th>
+    <th>V</th>
+    <th>Con</th>
+    <th>Coun</th>
+  </tr>
+  <tr>
+    <td>Alfreds F</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+     <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+</table>
+</div>
+<div class="container" style="margin-left: 250px;margin-top: 50px;">
+<table >
+	<th><h2>Insights Of The Crop :</h2></th>
+  <tr>
+    <th>Soil cond</th>
+    <th>A</th>
+    <th>C</th>
+    <th>V</th>
+    <th>Con</th>
+    <th>Coun</th>
+  </tr>
+  <tr>
+    <td>Alfreds F</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+     <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+</table>
+</div>
+			<main class="main-content">
+				<div class="fullwidth-block">
+					<div class="container">
+						<p style="text-align: center; font-size: 50px">Final Vedict : ___ % Success </p>
+					</div>
+				</div>
+				
+
+				
+				</div>
+			</footer> <!-- .site-footer -->
+		</div>
+		
+		<script src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/plugins.js"></script>
+		<script src="js/app.js"></script>
+		
+	</body>
+</html>

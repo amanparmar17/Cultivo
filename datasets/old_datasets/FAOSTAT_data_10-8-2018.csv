@@ -1,0 +1,361 @@
+Element,Item,Year,Unit,Value
+Area harvested,Barley,2007,ha,646200
+Area harvested,Barley,2008,ha,602600
+Area harvested,Barley,2009,ha,705700
+Area harvested,Barley,2010,ha,623800
+Area harvested,Barley,2011,ha,705400
+Area harvested,Barley,2012,ha,643000
+Area harvested,Barley,2013,ha,695000
+Area harvested,Barley,2014,ha,673500
+Area harvested,Barley,2015,ha,707000
+Area harvested,Barley,2016,ha,590000
+Yield,Barley,2007,hg/ha,20582
+Yield,Barley,2008,hg/ha,19914
+Yield,Barley,2009,hg/ha,23935
+Yield,Barley,2010,hg/ha,21717
+Yield,Barley,2011,hg/ha,23574
+Yield,Barley,2012,hg/ha,25194
+Yield,Barley,2013,hg/ha,25180
+Yield,Barley,2014,hg/ha,27171
+Yield,Barley,2015,hg/ha,22815
+Yield,Barley,2016,hg/ha,25508
+Production,Barley,2007,tonnes,1330000
+Production,Barley,2008,tonnes,1200000
+Production,Barley,2009,tonnes,1689100
+Production,Barley,2010,tonnes,1354700
+Production,Barley,2011,tonnes,1662900
+Production,Barley,2012,tonnes,1620000
+Production,Barley,2013,tonnes,1750000
+Production,Barley,2014,tonnes,1830000
+Production,Barley,2015,tonnes,1613000
+Production,Barley,2016,tonnes,1505000
+Area harvested,Coconuts,2007,ha,1940000
+Area harvested,Coconuts,2008,ha,1903200
+Area harvested,Coconuts,2009,ha,1895200
+Area harvested,Coconuts,2010,ha,1895900
+Area harvested,Coconuts,2011,ha,2070820
+Area harvested,Coconuts,2012,ha,2137000
+Area harvested,Coconuts,2013,ha,2159000
+Area harvested,Coconuts,2014,ha,2140000
+Area harvested,Coconuts,2015,ha,2164000
+Area harvested,Coconuts,2016,ha,2155749
+Yield,Coconuts,2007,hg/ha,56155
+Yield,Coconuts,2008,hg/ha,53322
+Yield,Coconuts,2009,hg/ha,57114
+Yield,Coconuts,2010,hg/ha,57176
+Yield,Coconuts,2011,hg/ha,49642
+Yield,Coconuts,2012,hg/ha,49415
+Yield,Coconuts,2013,hg/ha,55257
+Yield,Coconuts,2014,hg/ha,51770
+Yield,Coconuts,2015,hg/ha,51801
+Yield,Coconuts,2016,hg/ha,51620
+Production,Coconuts,2007,tonnes,10894000
+Production,Coconuts,2008,tonnes,10148300
+Production,Coconuts,2009,tonnes,10824300
+Production,Coconuts,2010,tonnes,10840000
+Production,Coconuts,2011,tonnes,10280000
+Production,Coconuts,2012,tonnes,10560000
+Production,Coconuts,2013,tonnes,11930000
+Production,Coconuts,2014,tonnes,11078873
+Production,Coconuts,2015,tonnes,11209641
+Production,Coconuts,2016,tonnes,11127898
+Area harvested,"Groundnuts, with shell",2007,ha,6292000
+Area harvested,"Groundnuts, with shell",2008,ha,6164900
+Area harvested,"Groundnuts, with shell",2009,ha,5477500
+Area harvested,"Groundnuts, with shell",2010,ha,5860000
+Area harvested,"Groundnuts, with shell",2011,ha,5310000
+Area harvested,"Groundnuts, with shell",2012,ha,4770000
+Area harvested,"Groundnuts, with shell",2013,ha,5505210
+Area harvested,"Groundnuts, with shell",2014,ha,4685000
+Area harvested,"Groundnuts, with shell",2015,ha,4560000
+Area harvested,"Groundnuts, with shell",2016,ha,5800000
+Yield,"Groundnuts, with shell",2007,hg/ha,14594
+Yield,"Groundnuts, with shell",2008,hg/ha,11627
+Yield,"Groundnuts, with shell",2009,hg/ha,9911
+Yield,"Groundnuts, with shell",2010,hg/ha,14104
+Yield,"Groundnuts, with shell",2011,hg/ha,13115
+Yield,"Groundnuts, with shell",2012,hg/ha,9843
+Yield,"Groundnuts, with shell",2013,hg/ha,17206
+Yield,"Groundnuts, with shell",2014,hg/ha,15799
+Yield,"Groundnuts, with shell",2015,hg/ha,14849
+Yield,"Groundnuts, with shell",2016,hg/ha,11822
+Production,"Groundnuts, with shell",2007,tonnes,9182500
+Production,"Groundnuts, with shell",2008,tonnes,7168100
+Production,"Groundnuts, with shell",2009,tonnes,5428500
+Production,"Groundnuts, with shell",2010,tonnes,8265000
+Production,"Groundnuts, with shell",2011,tonnes,6964000
+Production,"Groundnuts, with shell",2012,tonnes,4695000
+Production,"Groundnuts, with shell",2013,tonnes,9472000
+Production,"Groundnuts, with shell",2014,tonnes,7402000
+Production,"Groundnuts, with shell",2015,tonnes,6771000
+Production,"Groundnuts, with shell",2016,tonnes,6857000
+Area harvested,Jute,2007,ha,816000
+Area harvested,Jute,2008,ha,785600
+Area harvested,Jute,2009,ha,811200
+Area harvested,Jute,2010,ha,767630
+Area harvested,Jute,2011,ha,800000
+Area harvested,Jute,2012,ha,800000
+Area harvested,Jute,2013,ha,800000
+Area harvested,Jute,2014,ha,741000
+Area harvested,Jute,2015,ha,773000
+Area harvested,Jute,2016,ha,765105
+Yield,Jute,2007,hg/ha,22549
+Yield,Jute,2008,hg/ha,22072
+Yield,Jute,2009,hg/ha,24920
+Yield,Jute,2010,hg/ha,23437
+Yield,Jute,2011,hg/ha,24505
+Yield,Jute,2012,hg/ha,23900
+Yield,Jute,2013,hg/ha,24300
+Yield,Jute,2014,hg/ha,26559
+Yield,Jute,2015,hg/ha,23146
+Yield,Jute,2016,hg/ha,24839
+Production,Jute,2007,tonnes,1840000
+Production,Jute,2008,tonnes,1734000
+Production,Jute,2009,tonnes,2021500
+Production,Jute,2010,tonnes,1799100
+Production,Jute,2011,tonnes,1960380
+Production,Jute,2012,tonnes,1912000
+Production,Jute,2013,tonnes,1944000
+Production,Jute,2014,tonnes,1968000
+Production,Jute,2015,tonnes,1789200
+Production,Jute,2016,tonnes,1900433
+Area harvested,Millet,2007,ha,11695500
+Area harvested,Millet,2008,ha,11039100
+Area harvested,Millet,2009,ha,11002700
+Area harvested,Millet,2010,ha,11791800
+Area harvested,Millet,2011,ha,10680000
+Area harvested,Millet,2012,ha,10752000
+Area harvested,Millet,2013,ha,9179000
+Area harvested,Millet,2014,ha,9686740
+Area harvested,Millet,2015,ha,9116000
+Area harvested,Millet,2016,ha,8840000
+Yield,Millet,2007,hg/ha,10836
+Yield,Millet,2008,hg/ha,10301
+Yield,Millet,2009,hg/ha,7977
+Yield,Millet,2010,hg/ha,11273
+Yield,Millet,2011,hg/ha,11854
+Yield,Millet,2012,hg/ha,9998
+Yield,Millet,2013,hg/ha,11886
+Yield,Millet,2014,hg/ha,11789
+Yield,Millet,2015,hg/ha,12758
+Yield,Millet,2016,hg/ha,11629
+Production,Millet,2007,tonnes,12673000
+Production,Millet,2008,tonnes,11371800
+Production,Millet,2009,tonnes,8776800
+Production,Millet,2010,tonnes,13293000
+Production,Millet,2011,tonnes,12660000
+Production,Millet,2012,tonnes,10750000
+Production,Millet,2013,tonnes,10910000
+Production,Millet,2014,tonnes,11420000
+Production,Millet,2015,tonnes,11630000
+Production,Millet,2016,tonnes,10280000
+Area harvested,Oilseeds nes,2007,ha,360000
+Area harvested,Oilseeds nes,2008,ha,339400
+Area harvested,Oilseeds nes,2009,ha,375500
+Area harvested,Oilseeds nes,2010,ha,388730
+Area harvested,Oilseeds nes,2011,ha,310000
+Area harvested,Oilseeds nes,2012,ha,315000
+Area harvested,Oilseeds nes,2013,ha,298740
+Area harvested,Oilseeds nes,2014,ha,234000
+Area harvested,Oilseeds nes,2015,ha,252000
+Area harvested,Oilseeds nes,2016,ha,281396
+Yield,Oilseeds nes,2007,hg/ha,3056
+Yield,Oilseeds nes,2008,hg/ha,3447
+Yield,Oilseeds nes,2009,hg/ha,2663
+Yield,Oilseeds nes,2010,hg/ha,2778
+Yield,Oilseeds nes,2011,hg/ha,3161
+Yield,Oilseeds nes,2012,hg/ha,3238
+Yield,Oilseeds nes,2013,hg/ha,3280
+Yield,Oilseeds nes,2014,hg/ha,3248
+Yield,Oilseeds nes,2015,hg/ha,2937
+Yield,Oilseeds nes,2016,hg/ha,3021
+Production,Oilseeds nes,2007,tonnes,110000
+Production,Oilseeds nes,2008,tonnes,117000
+Production,Oilseeds nes,2009,tonnes,100000
+Production,Oilseeds nes,2010,tonnes,108000
+Production,Oilseeds nes,2011,tonnes,98000
+Production,Oilseeds nes,2012,tonnes,102000
+Production,Oilseeds nes,2013,tonnes,98000
+Production,Oilseeds nes,2014,tonnes,76000
+Production,Oilseeds nes,2015,tonnes,74000
+Production,Oilseeds nes,2016,tonnes,85000
+Area harvested,"Rice, paddy",2007,ha,43910000
+Area harvested,"Rice, paddy",2008,ha,45537400
+Area harvested,"Rice, paddy",2009,ha,41918300
+Area harvested,"Rice, paddy",2010,ha,42862400
+Area harvested,"Rice, paddy",2011,ha,44010000
+Area harvested,"Rice, paddy",2012,ha,42754000
+Area harvested,"Rice, paddy",2013,ha,44135950
+Area harvested,"Rice, paddy",2014,ha,44110000
+Area harvested,"Rice, paddy",2015,ha,43390000
+Area harvested,"Rice, paddy",2016,ha,42964980
+Yield,"Rice, paddy",2007,hg/ha,32924
+Yield,"Rice, paddy",2008,hg/ha,32509
+Yield,"Rice, paddy",2009,hg/ha,32366
+Yield,"Rice, paddy",2010,hg/ha,33587
+Yield,"Rice, paddy",2011,hg/ha,35878
+Yield,"Rice, paddy",2012,hg/ha,36909
+Yield,"Rice, paddy",2013,hg/ha,36070
+Yield,"Rice, paddy",2014,hg/ha,35638
+Yield,"Rice, paddy",2015,hg/ha,36077
+Yield,"Rice, paddy",2016,hg/ha,36950
+Production,"Rice, paddy",2007,tonnes,144570000
+Production,"Rice, paddy",2008,tonnes,148036000
+Production,"Rice, paddy",2009,tonnes,135672992
+Production,"Rice, paddy",2010,tonnes,143963008
+Production,"Rice, paddy",2011,tonnes,157900000
+Production,"Rice, paddy",2012,tonnes,157800000
+Production,"Rice, paddy",2013,tonnes,159200000
+Production,"Rice, paddy",2014,tonnes,157200000
+Production,"Rice, paddy",2015,tonnes,156540000
+Production,"Rice, paddy",2016,tonnes,158756871
+Area harvested,Sorghum,2007,ha,8470000
+Area harvested,Sorghum,2008,ha,7764000
+Area harvested,Sorghum,2009,ha,7530900
+Area harvested,Sorghum,2010,ha,7787200
+Area harvested,Sorghum,2011,ha,7381700
+Area harvested,Sorghum,2012,ha,6250000
+Area harvested,Sorghum,2013,ha,6210000
+Area harvested,Sorghum,2014,ha,5790000
+Area harvested,Sorghum,2015,ha,6160000
+Area harvested,Sorghum,2016,ha,5650000
+Yield,Sorghum,2007,hg/ha,8443
+Yield,Sorghum,2008,hg/ha,10209
+Yield,Sorghum,2009,hg/ha,9621
+Yield,Sorghum,2010,hg/ha,8602
+Yield,Sorghum,2011,hg/ha,9487
+Yield,Sorghum,2012,hg/ha,9568
+Yield,Sorghum,2013,hg/ha,8502
+Yield,Sorghum,2014,hg/ha,9568
+Yield,Sorghum,2015,hg/ha,8847
+Yield,Sorghum,2016,hg/ha,7805
+Production,Sorghum,2007,tonnes,7150800
+Production,Sorghum,2008,tonnes,7925900
+Production,Sorghum,2009,tonnes,7245600
+Production,Sorghum,2010,tonnes,6698200
+Production,Sorghum,2011,tonnes,7003100
+Production,Sorghum,2012,tonnes,5980000
+Production,Sorghum,2013,tonnes,5280000
+Production,Sorghum,2014,tonnes,5540000
+Production,Sorghum,2015,tonnes,5450000
+Production,Sorghum,2016,tonnes,4410000
+Area harvested,Soybeans,2007,ha,8880000
+Area harvested,Soybeans,2008,ha,9510800
+Area harvested,Soybeans,2009,ha,9734700
+Area harvested,Soybeans,2010,ha,9554190
+Area harvested,Soybeans,2011,ha,10180000
+Area harvested,Soybeans,2012,ha,10840000
+Area harvested,Soybeans,2013,ha,11716430
+Area harvested,Soybeans,2014,ha,11086000
+Area harvested,Soybeans,2015,ha,11670000
+Area harvested,Soybeans,2016,ha,11500000
+Yield,Soybeans,2007,hg/ha,12351
+Yield,Soybeans,2008,hg/ha,10415
+Yield,Soybeans,2009,hg/ha,10236
+Yield,Soybeans,2010,hg/ha,13330
+Yield,Soybeans,2011,hg/ha,11998
+Yield,Soybeans,2012,hg/ha,13530
+Yield,Soybeans,2013,hg/ha,10123
+Yield,Soybeans,2014,hg/ha,9358
+Yield,Soybeans,2015,hg/ha,7344
+Yield,Soybeans,2016,hg/ha,12181
+Production,Soybeans,2007,tonnes,10968000
+Production,Soybeans,2008,tonnes,9905400
+Production,Soybeans,2009,tonnes,9964500
+Production,Soybeans,2010,tonnes,12736000
+Production,Soybeans,2011,tonnes,12214000
+Production,Soybeans,2012,tonnes,14666000
+Production,Soybeans,2013,tonnes,11861000
+Production,Soybeans,2014,tonnes,10374000
+Production,Soybeans,2015,tonnes,8570000
+Production,Soybeans,2016,tonnes,14008000
+Area harvested,Sugar cane,2007,ha,5150000
+Area harvested,Sugar cane,2008,ha,5055200
+Area harvested,Sugar cane,2009,ha,4415400
+Area harvested,Sugar cane,2010,ha,4174600
+Area harvested,Sugar cane,2011,ha,4944390
+Area harvested,Sugar cane,2012,ha,5090000
+Area harvested,Sugar cane,2013,ha,5060000
+Area harvested,Sugar cane,2014,ha,4990000
+Area harvested,Sugar cane,2015,ha,5070000
+Area harvested,Sugar cane,2016,ha,4950000
+Yield,Sugar cane,2007,hg/ha,690330
+Yield,Sugar cane,2008,hg/ha,688772
+Yield,Sugar cane,2009,hg/ha,645535
+Yield,Sugar cane,2010,hg/ha,700191
+Yield,Sugar cane,2011,hg/ha,692466
+Yield,Sugar cane,2012,hg/ha,709306
+Yield,Sugar cane,2013,hg/ha,674308
+Yield,Sugar cane,2014,hg/ha,705695
+Yield,Sugar cane,2015,hg/ha,714661
+Yield,Sugar cane,2016,hg/ha,703935
+Production,Sugar cane,2007,tonnes,355519712
+Production,Sugar cane,2008,tonnes,348187904
+Production,Sugar cane,2009,tonnes,285029312
+Production,Sugar cane,2010,tonnes,292301600
+Production,Sugar cane,2011,tonnes,342382016
+Production,Sugar cane,2012,tonnes,361036992
+Production,Sugar cane,2013,tonnes,341200000
+Production,Sugar cane,2014,tonnes,352142000
+Production,Sugar cane,2015,tonnes,362333000
+Production,Sugar cane,2016,tonnes,348448000
+Area harvested,Tea,2007,ha,567020
+Area harvested,Tea,2008,ha,578458
+Area harvested,Tea,2009,ha,579000
+Area harvested,Tea,2010,ha,579000
+Area harvested,Tea,2011,ha,600000
+Area harvested,Tea,2012,ha,605000
+Area harvested,Tea,2013,ha,563980
+Area harvested,Tea,2014,ha,604000
+Area harvested,Tea,2015,ha,566660
+Area harvested,Tea,2016,ha,585907
+Yield,Tea,2007,hg/ha,17160
+Yield,Tea,2008,hg/ha,17063
+Yield,Tea,2009,hg/ha,16800
+Yield,Tea,2010,hg/ha,17119
+Yield,Tea,2011,hg/ha,18258
+Yield,Tea,2012,hg/ha,18761
+Yield,Tea,2013,hg/ha,21433
+Yield,Tea,2014,hg/ha,19989
+Yield,Tea,2015,hg/ha,21762
+Yield,Tea,2016,hg/ha,21372
+Production,Tea,2007,tonnes,973000
+Production,Tea,2008,tonnes,987000
+Production,Tea,2009,tonnes,972700
+Production,Tea,2010,tonnes,991182
+Production,Tea,2011,tonnes,1095460
+Production,Tea,2012,tonnes,1135070
+Production,Tea,2013,tonnes,1208780
+Production,Tea,2014,tonnes,1207310
+Production,Tea,2015,tonnes,1233140
+Production,Tea,2016,tonnes,1252174
+Area harvested,Wheat,2007,ha,27994500
+Area harvested,Wheat,2008,ha,28038600
+Area harvested,Wheat,2009,ha,27752400
+Area harvested,Wheat,2010,ha,28457400
+Area harvested,Wheat,2011,ha,29068600
+Area harvested,Wheat,2012,ha,29860000
+Area harvested,Wheat,2013,ha,29650000
+Area harvested,Wheat,2014,ha,30470000
+Area harvested,Wheat,2015,ha,31470000
+Area harvested,Wheat,2016,ha,30230000
+Yield,Wheat,2007,hg/ha,27079
+Yield,Wheat,2008,hg/ha,28022
+Yield,Wheat,2009,hg/ha,29071
+Yield,Wheat,2010,hg/ha,28395
+Yield,Wheat,2011,hg/ha,29886
+Yield,Wheat,2012,hg/ha,31775
+Yield,Wheat,2013,hg/ha,31538
+Yield,Wheat,2014,hg/ha,31457
+Yield,Wheat,2015,hg/ha,27496
+Yield,Wheat,2016,hg/ha,30930
+Production,Wheat,2007,tonnes,75806704
+Production,Wheat,2008,tonnes,78570200
+Production,Wheat,2009,tonnes,80679400
+Production,Wheat,2010,tonnes,80803600
+Production,Wheat,2011,tonnes,86874000
+Production,Wheat,2012,tonnes,94880000
+Production,Wheat,2013,tonnes,93510000
+Production,Wheat,2014,tonnes,95850000
+Production,Wheat,2015,tonnes,86530000
+Production,Wheat,2016,tonnes,93500000
