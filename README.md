@@ -25,15 +25,44 @@ Cultivo is a machine learning based crop consultant, developed using the high le
 
 ## Test Cases  
 
-			| District | Crop | Success Rate |
-		        | ------------- | ------------- |
-			
-		        | Howrah | Wheat | 84.944 % |
-		        | Anantapur | Rice | 81.899 % |
-			| Chittoor | Groundnut | 88.901 % |
-		        | Anantapur | Groundnut | 87.101 % |
-			| Visakhapatanam | Millet | 99.267 % |
-		        | Gaya | Sugarcane | 95.403 % |
+			<table>
+    <tr>
+        <th>District</th>
+        <th>Crop</th>
+        <th>Success rate</th>
+    </tr>
+    <tr>
+        <td>Howrah</td>
+        <td>Wheat</td>
+        <td>84.944%</td>
+    </tr>
+
+    <tr>
+        <td>Anantapur</td>
+        <td>Rice</td>
+        <td>81.899%</td>
+    </tr>
+    <tr>
+        <td>Chittoor</td>
+        <td>Groundnut</td>
+        <td>88.901%</td>
+    </tr>
+    <tr>
+        <td>Anantapur</td>
+        <td>Groundnut</td>
+        <td>87.101%</td>
+    </tr>
+    <tr>
+        <td>Visakhapatanam</td>
+        <td>Millet</td>
+        <td>99.267%</td>
+    </tr>
+    <tr>
+        <td>Gaya</td>
+        <td>Sugarcane</td>
+        <td>95.403%</td>
+    </tr>
+	</table>
 
 
 ## APIs used:
