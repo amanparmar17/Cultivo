@@ -23,15 +23,17 @@ Cultivo is a machine learning based crop consultant, developed using the high le
     • Final calculated success rate
     • Other crop suggestions
 
-## Test Cases  </br>
+## Test Cases  
+
 			| District | Crop | Success Rate |
 		        | ------------- | ------------- |
-		        | Howrah  | Wheat  | 84.944 % |
-		        | Anantapur  | Rice | 81.899 % |
-			| Chittoor  | Groundnut  | 88.901 % |
-		        | Anantapur  | Groundnut | 87.101 % |
-			| Visakhapatanam  | Millet  | 99.267 % |
-		        | Gaya  | Sugarcane | 95.403 % |
+			
+		        | Howrah | Wheat | 84.944 % |
+		        | Anantapur | Rice | 81.899 % |
+			| Chittoor | Groundnut | 88.901 % |
+		        | Anantapur | Groundnut | 87.101 % |
+			| Visakhapatanam | Millet | 99.267 % |
+		        | Gaya | Sugarcane | 95.403 % |
 
 
 ## APIs used:
@@ -41,12 +43,12 @@ Cultivo is a machine learning based crop consultant, developed using the high le
     • For soil information
         ◦ Agweather API by WeatherBit
 
-## Final success rate is calculated, keeping in mind 5 important factors i.e, </br>
-	* Imports of the crop in the past 10 years </br>
-	* Exports of the crop in the past 10 years </br>
-	* Production of the crop in the past 10 years </br>
-	* Production per unit area of the crop in the past 10 years, for the concerned area </br>
-	* Gross production value of the crop in the past 10 years**
+## Final success rate is calculated, keeping in mind 5 important factors i.e, 
+	* Imports of the crop in the past 10 years 
+	* Exports of the crop in the past 10 years 
+	* Production of the crop in the past 10 years 
+	* Production per unit area of the crop in the past 10 years, for the concerned area 
+	* Gross production value of the crop in the past 10 years
 	
 
 
