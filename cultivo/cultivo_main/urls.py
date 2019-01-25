@@ -11,8 +11,10 @@ urlpatterns=[
     path(r'story',views.TemplateView3.as_view(),name="story"),
     path(r'services',views.TemplateView4.as_view(),name="services"),
     # path(r'contactus',views.TemplateView_con.as_view(),name="contact"),
-
+    path(r'profile',views.profile,name="profile"),
     path(r'result',views.work,name="result"),
+    path(r'login',views.login,name="login"),
+    path(r'signup',views.signup,name="signup"),
     # path(r'form_signin',views.)
     # path('upload',views.upload,name="upload"),
 ]
