@@ -16,19 +16,23 @@ import statistics   #calculate mean
 count=0
 
 
+def profile(request):
+    name=request.POST.get('emaill',False)
+    return render(request,'registration/profile.html',{'name':name})
+
 # =======================================FOR WORK USING THE API OF WEATHER AND SOIL DETAILS=====================================
 
 
 #to get the current temperature and weather information
 def api_for_weather(place):
     
-    result=requests.get('http://api.openweathermap.org/data/2.5/weather?q='+place+'&appid=26215a2614573c7ce3405f3338415d10')
+    result=requests.get('https://openweathermap.org/data/2.5/weather?q='+place+'&appid=b6907d289e10d714a6e88b30761fae22')
     data=result.json()
     return data
 
 def api_for_weather_2(lat,longi):
     
-    result=requests.get('http://api.openweathermap.org/data/2.5/weather?lat='+str(lat)+'&lon='+str(longi)+'&appid=26215a2614573c7ce3405f3338415d10')
+    result=requests.get('https://openweathermap.org/data/2.5/weather?lat='+str(lat)+'&lon='+str(longi)+'&appid=b6907d289e10d714a6e88b30761fae22')
     data=result.json()
     return data
 
@@ -46,7 +50,7 @@ def get_soil_info(place,coord):
         start_date=str(now.year)+'-'+str(now.month-1)+'-'+str(now.day)
         end_date=str(now.year)+'-'+str(now.month+1)+'-'+str(now.day)
     #    result=requests.get('https://api.weatherbit.io/v2.0/history/agweather?lat='+str(coord[0])+'&lon='+str(coord[1])+'&start_date='+start_date+'&end_date='+end_date+'&key=283a77fe5cbe46718430e4d5418be6c1')
-        result=requests.get('https://api.weatherbit.io/v2.0/forecast/agweather?lat='+str(coord[0])+'&lon='+str(coord[1])+'&key=3d6dc8552cb74208866db831e6cc7724')
+        result=requests.get('https://api.weatherbit.io/v2.0/forecast/agweather?lat='+str(coord[0])+'&lon='+str(coord[1])+'&key=136d448f3c6e422a964cfafea6b66ae2')
         data=result.json()
         return data
     
@@ -78,7 +82,7 @@ def geocoding(place):
 
 def print_temp_details(data):
        
-       temp=precise((data['main']['temp']-273.15),1)
+       temp=precise((data['main']['temp']),1)
        wind=precise((data['wind']['speed']*1.60934),2)
        dire=precise((data['wind']['deg']),2)
 
